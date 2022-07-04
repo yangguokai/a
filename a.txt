@@ -19,7 +19,7 @@
             "categories": [
             ]
         },
-{"key":"Auete","name":"③推荐️","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Auete","name":"⭐️cc云","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_独优影视","name":"独优","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key": "csp_77",
             "name": "⭐️77酷云",
