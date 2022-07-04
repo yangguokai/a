@@ -52,10 +52,6 @@
             "filterable": 1,
             "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/kuqimv.json"
         },
-{"key": "csp_BBB"        ,"name":"🅱小品相声戏曲动物️白噪音","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blixs"      ,"name":"🅱相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blidw"      ,"name":"🅱动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blixq"      ,"name":"🅱戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_huya","name":"🐯虎牙X","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/虎牙.json"},
 {"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/huya.json"},
 {"key":"csp_xpath_huyag","name":"🦊虎牙G","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/huya2.json"},
