@@ -225,7 +225,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {"key":"csp_Xbiubiu_tegou","name":"️特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/tegou.json"},
+        {"key":"csp_xp_特狗影视","name":"特狗影视","type":3,"api":"csp_XBiubiu"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://159.138.137.208/mtv/xpath/特狗影视.json"},
         {
             "key": "csp_xpath_cokemv",
             "name": "Cokemv",
