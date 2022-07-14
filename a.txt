@@ -1,4 +1,4 @@
-{"sites": [{"key": "360_spider","name":"⭐️360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"sites": [{"key": "360_spider","name":"360/解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_77",
             "name": "⭐️77酷云",
             "type": 3,
@@ -27,7 +27,7 @@
 {"key":"快播云","name":"🐞快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]}, 
 {"key":"csp_xp_特狗影视","name":"🐞特狗影视","type":3,"api":"csp_XBiubiu"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://159.138.137.208/mtv/xpath/特狗影视.json"},
 {"key": "csp_AppYs_秒播",
-            "name": "秒播",
+            "name": "秒播/解析",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -36,7 +36,7 @@
             "ext": "http://mkk.gotka.top/api.php/v1.vod"
         },
 {"key": "光速资源",
-            "name": "️光速",
+            "name": "️🐞光速",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "playUrl": "",
@@ -45,7 +45,7 @@
             "categories": [
             ]
         },
-{"key":"csp_appysv2_独优影视","name":"独优","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
+{"key":"csp_appysv2_独优影视","name":"独优/解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {
       "key": "csp_Kmys",
       "name": "⭐️酷猫",
@@ -61,7 +61,7 @@
 {"key":"csp_GitCafe"       ,"name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xml___小猫咪","name":"⭐️小猫咪"   ,"type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xpath_pianba","name":"片吧影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/pianba.json"},
+{"key":"csp_xpath_pianba","name":"片吧影院/综合","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/pianba.json"},
 {"key":"csp_AliPanSou"     ,"name":"阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
  {"key":"push_agent"        ,"name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
@@ -126,7 +126,7 @@
         },
         {
             "key": "苹果采集",
-            "name": "苹果采集",
+            "name": "苹果采集/解析",
             "type": 0,
             "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
             "searchable": 1,
@@ -145,7 +145,7 @@
         },
         {
             "key": "csp_xpath_348",
-            "name": "348电影",
+            "name": "348/综合",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
