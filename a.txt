@@ -29,13 +29,33 @@
       "filterable": 1
     },
 {
-      "key": "Lib",
-      "name": "🐞Libvio",
+      "key": "Nfyun",
+      "name": "⭐️Nf云",
       "type": 3,
-      "api": "csp_Lib",
+      "api": "csp_Nfyun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+{
+      "key": "AliPS",
+      "name": "⭐️盘搜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "27b06d5221a24199b15f2e573d847430"
+    },
+{
+      "key": "9E03",
+      "name": "🐞9E03",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DY1990"        ,"name":"🐞九零影视","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
