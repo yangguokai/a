@@ -8,16 +8,6 @@
             "filterable": 1
 }, 
 {
-      "key": "csp_Kmys",
-      "name": "🐱酷猫",
-      "type": 3,
-      "api": "csp_Kmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "spider": "https://gitea.com/wangxilin/1/raw/branch/main/top93.jar"
-    },
-{
       "key": "Ikan",
       "name": "⭐️Ikan",
       "type": 3,
