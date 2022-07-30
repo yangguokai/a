@@ -25,16 +25,6 @@
             "quickSearch":1,
             "filterable":1
         },
- {
-      "key": "9E03",
-      "name": "9E国语",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangguokai.github.io/a/9eguoyu.json"
-},
 {
       "key": "Ikan",
       "name": "⭐️Ikan",
