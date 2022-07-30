@@ -6,6 +6,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+},
+{
+            "key":"酷猫",
+            "name":"酷猫",
+            "type":3,
+            "api":"csp_Kmys",
+            "searchable":1,
+            "quickSearch":1,
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/fh0721.jar",
+            "filterable":1
 }, 
 {
       "key": "Ikan",
