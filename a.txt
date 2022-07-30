@@ -25,15 +25,16 @@
             "quickSearch":1,
             "filterable":1
         },
-{
-            "key":"csp_Wmkk",
-            "name":"完美看看",
-            "api":"csp_Wmkk",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        }, 
+ {
+      "key": "9E03",
+      "name": "9E国语",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+},
 {
       "key": "Ikan",
       "name": "⭐️Ikan",
