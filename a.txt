@@ -14,6 +14,7 @@
             "api":"csp_Kmys",
             "searchable":1,
             "quickSearch":1,
+            "jar":"https://yangguokai.github.io/a/kumao.jar",
             "filterable":1
 },
 {
