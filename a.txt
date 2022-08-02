@@ -35,7 +35,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/lucky/P/raw/branch/master/MaooXB/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd.json"
+            "ext":"https://yangguokai.github.io/a/cerrd.jar"
 },
 {
             "key":"追剧喵",
