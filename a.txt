@@ -1,4 +1,3 @@
-{"sites": [{"key": "360_spider","name":"360/解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_77",
             "name": "⭐️77酷云",
             "type": 3,
