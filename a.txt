@@ -1,5 +1,5 @@
 {"key": "csp_77",
-            "name": "⭐️77酷云",
+            "name":"⭐️77酷云",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -8,7 +8,7 @@
 },
 {
             "key":"酷猫",
-            "name":"酷猫",
+            "name":"⭐️酷猫",
             "type":3,
             "api":"csp_Kmys",
             "searchable":1,
@@ -18,7 +18,7 @@
 }, 
 {
             "key":"360_spider",
-            "name":"360影视（官）",
+            "name":"360影视（官/解析）",
             "api":"csp_SP360",
             "type":3,
             "filterable":1,
