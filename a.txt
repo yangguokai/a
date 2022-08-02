@@ -16,6 +16,16 @@
             "quickSearch":1,
             "jar":"https://yangguokai.github.io/a/kumao.jar",
             "filterable":1
+}, 
+{
+            "key":"360_spider",
+            "name":"360影视（官）",
+            "api":"csp_SP360",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1,
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/0730.txt;md5;190e35ede8c6848a210e5c5460d345e9"
 },
 {
             "key":"追剧喵",
