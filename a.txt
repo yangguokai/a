@@ -44,11 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-{"key":"csp_QQ","name":"腾讯视频/解析","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/ltxxjs/tvbox20220801/raw/branch/main/jar/spiderb.jar"},
-{"key":"爱奇艺","name":"爱奇艺/解析","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/ltxxjs/tvbox20220801/raw/branch/main/jar/spiderb.jar"},
-{"key":"csp_MGTV","name":"芒果/解析","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/ltxxjs/tvbox20220801/raw/branch/main/jar/spiderb.jar"},
-{"key":"csp_293视频","name":"293视频/解析","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://gitea.com/ltxxjs/tvbox20220801/raw/branch/main/jar/spiderb.jar"},  
+    },  
 {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"⭐️77","type":3},
 {"key": "csp_LiteApple"  ,"name":"⭐️小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Auete","name":"⭐️cc云","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
