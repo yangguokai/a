@@ -14,7 +14,7 @@
             "api":"csp_Kmys",
             "searchable":1,
             "quickSearch":1,
-          "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/cs0805.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/cs0805.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
             "filterable":1
 }, 
 {
