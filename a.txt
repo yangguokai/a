@@ -14,7 +14,7 @@
             "api":"csp_Kmys",
             "searchable":1,
             "quickSearch":1,
-            "jar":"http://static01.imgkr.com/temp/b6f05a695f464317bc5b75df27fedad8.jpg;md5;7a7e8073d59022b0de11aa135c60b05f",
+            "jar":"http://static01.imgkr.com/temp/f67dbdbe61e74d648df10903f7f7dafd.jpg;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
             "filterable":1
 }, 
 {
