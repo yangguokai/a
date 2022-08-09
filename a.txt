@@ -7,6 +7,7 @@
             "quickSearch": 1,
             "filterable": 1
 },
+{"key": "csp_Kmys","name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://static01.imgkr.com/temp/b6f05a695f464317bc5b75df27fedad8.jpg"},
 {
             "key":"酷猫",
             "name":"⭐️酷猫",
