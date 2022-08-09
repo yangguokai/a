@@ -146,7 +146,7 @@
 
 //jar+壁纸
 
-"spider":"https://yun.weetai.cn/资源包1.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://yangguokai.github.io/a/b.jar","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
