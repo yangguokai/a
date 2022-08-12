@@ -159,16 +159,6 @@
             "ext": "https://oli-fa.coding.net/p/yue/d/yue/git/raw/main/maoxp/cokemv.json"
         },
         {
-            "key": "csp_xpath_348",
-            "name": "348/综合",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/348z.json"
-        },
-        {
       "key": "csp_xpath_112",
       "name": "🐞工人影视",
       "type": 3,
