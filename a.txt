@@ -126,15 +126,9 @@
                 
             ]
         },
-        {
-            "key": "苹果采集",
-            "name": "苹果采集/解析",
-            "type": 0,
-            "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+{"key":"mtv_pc_小学课堂","name":"🔅小学课堂","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/小学课堂.json"},
+{"key":"mtv_pc_初中课堂","name":"🔅初中课堂","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/初中课堂.json"},
+{"key":"mtv_pc_高中课堂","name":"🔅高中课堂","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/高中课堂.json"}, 
         {
             "key": "csp_xpath_cokemv",
             "name": "Cokemv",
