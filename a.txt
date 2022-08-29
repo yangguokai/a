@@ -37,6 +37,7 @@
       "filterable": 1,
       "jar":"http://mtv.weetai.cn/jar/资源包2.jar;md5;8A21559775BA9AA84480C3E68956089C"
     },
+{"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"快看","name":"⭐️快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"⭐️77","type":3},
 {"key": "csp_LiteApple"  ,"name":"⭐️小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
