@@ -29,7 +29,7 @@
       "jar":"http://mtv.weetai.cn/jar/资源包2.jar;md5;8A21559775BA9AA84480C3E68956089C"
     },
 {"key":"T4","name":"🐌T4〔爬虫〕","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_三五电影","name":"爬三五电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1, "jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包1.jpg;md5;B10D1D0527E69BCDC323A4C0BF9E5D65"},
+{"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"快看","name":"⭐️快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"⭐️77","type":3},
 {"key": "csp_LiteApple"  ,"name":"⭐️小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
