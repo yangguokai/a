@@ -1,6 +1,5 @@
 {"sites": [
-{"key":"csp_Kunyu77"    ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"}, 
-{"key": "csp_Kmys","name":"🐞酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"}, 
+{"key":"csp_Kunyu77"    ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;2f19c527b9a335fb1415c5f9686515c8"},  
 {           "key": "csp_77",
             "name":"⭐️77酷云",
             "type": 3,
@@ -9,16 +8,6 @@
             "quickSearch": 1,
             "filterable": 1
 },
-{
-            "key":"酷猫",
-            "name":"⭐️酷猫",
-            "type":3,
-            "api":"csp_Kmys",
-            "searchable":1,
-            "quickSearch":1,
-            "jar":"https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32",
-            "filterable":1
-}, 
 {
             "key":"360_spider",
             "name":"360影视（官/解析）",
