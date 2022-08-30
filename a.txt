@@ -83,18 +83,7 @@
             "categories": [
             ]
         },
-{
-            "key": "新浪资源",
-            "name": "⭐️新浪",
-            "type": 1,
-            "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-                
-            ]
-        },
+{"key":"新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_独优影视","name":"独优/解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_DiDuan"        ,"name":"低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
