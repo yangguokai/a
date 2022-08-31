@@ -15,7 +15,7 @@
             "type":3,
             "filterable":1,
             "quickSearch":1,
-            "searchable":1,
+            "searchable":1
 },
 {
       "key": "Ikan",
