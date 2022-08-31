@@ -129,7 +129,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"搬运工解析","type":1,"url":"https://jx.bynote.top/API.php?url="},
 {"name":"aiku","type": 1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
-{"name":"线路3","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="}, 
 {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"OK解析","type":0,"url":"https://okjx.cc/?url="},
 {"name": "GGTV快速","type": 1,	"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="},
