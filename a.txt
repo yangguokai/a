@@ -16,7 +16,6 @@
             "filterable":1,
             "quickSearch":1,
             "searchable":1,
-            "jar":"https://yangguokai.github.io/a/360.jar"
 },
 {
       "key": "Ikan",
