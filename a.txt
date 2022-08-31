@@ -1,7 +1,7 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 {"key":"mtv_pc_酷云七七","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
-{"key":"csp_Kmys","name":"🐞酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kmys","name":"🐞酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 {
             "key":"360_spider",
             "name":"360影视（官/解析）",
