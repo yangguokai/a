@@ -27,6 +27,7 @@
       "filterable": 1,
       "jar":"http://mtv.weetai.cn/jar/资源包2.jar;md5;8A21559775BA9AA84480C3E68956089C"
     },
+{"key":"mtv_pc_三亿影视","name":"三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4","name":"🐌T4〔爬虫〕","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"快看","name":"⭐️快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
