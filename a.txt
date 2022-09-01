@@ -23,7 +23,7 @@
             "quickSearch": 1,
             "filterable": 1
 },
-{"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/AB影院.json"},
+{"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt"},
 {"key":"优众影视","name":"🐞优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"mtv_pc_293视频" ,"name":"293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三亿影视","name":"三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -76,7 +76,7 @@
 {"key":"新浪资源","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_独优影视","name":"独优/解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_xpath_pianba","name":"片吧影院/综合","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/片吧.json"},
+{"key":"csp_xpath_pianba","name":"片吧影院/综合","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/片吧.txt"},
  {"key":"push_agent"        ,"name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
         {
             "key": "天空资源",
