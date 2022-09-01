@@ -1,6 +1,6 @@
 {"sites": [
-{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
-{"key":"mtv_pc_酷云七七","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
+{"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+{"key":"mtv_pc_酷云影视","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
 {"key":"mtv_pc_奇艺视频","name":"奇艺视频","type":3,"api":"csp_IQIYI"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_腾讯视频","name":"腾讯视频","type":3,"api":"csp_QQ"            ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_芒果视频","name":"芒果视频","type":3,"api":"csp_MGTV"          ,"searchable":1,"quickSearch":1,"filterable":1},
