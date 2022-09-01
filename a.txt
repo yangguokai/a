@@ -23,7 +23,9 @@
             "quickSearch": 1,
             "filterable": 1
 },
-{"key":"优众影视","name":"🐞优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},{"key":"mtv_pc_293视频" ,"name":"293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXB2/AB影院.json"},
+{"key":"优众影视","name":"🐞优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+{"key":"mtv_pc_293视频" ,"name":"293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三亿影视","name":"三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4","name":"🐌T4〔爬虫〕","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555"         ,"filterable":1,"quickSearch":1,"searchable":1},
