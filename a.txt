@@ -23,7 +23,6 @@
             "quickSearch": 1,
             "filterable": 1
 },
-{"key":"csp_tutu","name":"图图〔SP〕","type":3,"api":"csp_tutu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Lezhu","name":"🍎乐猪TV〔SP〕","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt"},
