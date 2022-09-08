@@ -21,7 +21,8 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1
+            "searchable": 1,
+            "jar":"http://刚刚.live/jar2/0906.jar"
 }, 
 {
             "key": "Ikan",
