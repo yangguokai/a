@@ -15,6 +15,15 @@
             "searchable":1
 },
 {
+            "key": "APPTT",
+            "name": "图图SP",
+            "api": "csp_AppTT",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+}, 
+{
             "key": "Ikan",
             "name": "⭐️Ikan",
             "type": 3,
