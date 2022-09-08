@@ -22,7 +22,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar":"http://刚刚.live/jar2/0906.jar"
+            "jar":"https://yangguokai.github.io/a/20220908tutu.jar"
 }, 
 {
             "key": "Ikan",
