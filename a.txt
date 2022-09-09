@@ -24,14 +24,6 @@
             "searchable": 1,
             "jar":"https://yangguokai.github.io/a/20220908tutu.jar"
 }, 
-{           "key": "csp_Bttoo",
-            "name": "Bttoo",
-            "type": 3,
-            "api": "csp_Bttoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-},
 {
             "key": "csp_Smdyy",
             "name": "Smdyy",
