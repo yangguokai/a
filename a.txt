@@ -38,6 +38,7 @@
             "quickSearch": 1,
             "filterable": 1
 },
+{"key":"py_xmaomi","name":" 🚩 🚩 🦂猫咪","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/sngdha/TvConfig/raw/branch/main/PY/py_xmaomi.py"},
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Lezhu","name":"🍎乐猪TV〔SP〕","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt"},
