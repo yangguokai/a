@@ -49,7 +49,7 @@
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_视界影视","name":"🔥视界影视","type":3,"api":"csp_KanSJ"         ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"mtv_pc_神马影视","name":"🔥神马影视","type":3,"api":"csp_Smdyy"         ,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"mtv_pc_阿里盘搜","name":"🔍阿里盘搜","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_阿里盘搜","name":"🔍阿里盘搜","type":3,"api":"csp_AliPanSou"     ,"searchable":1,"quickSearch":1,"filterable":1 ,"jar":"https://yangguokai.github.io/a/xyq0909.jar"},
 {"key":"mtv_xp_奈飞中文","name":"💦奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/奈飞.json"},
 {"key":"mtv_xp_骚火电影","name":"💦骚火电影","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/骚火电影.json"},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
