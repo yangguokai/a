@@ -11,6 +11,7 @@
 {"key":"csp_Lezhu","name":"🍎乐猪TV〔SP〕","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt"},
 {"key":"csp_xpath_wanmeikk","name":"🍓完美看看〔XP〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/完美看看.txt"},
+{"key":"csp_biubiu_饭团HD","name":"🍒饭团HD〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/饭团.txt"},
 {"key":"优众影视","name":"🐞优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"mtv_pc_293视频" ,"name":"293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三亿影视","name":"三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1},
