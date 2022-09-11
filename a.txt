@@ -21,15 +21,6 @@
             "jar":"https://yangguokai.github.io/a/20220908tutu.jar"
 }, 
 {
-            "key": "csp_Smdyy",
-            "name": "Smdyy",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-},
-{
             "key": "Ikan",
             "name": "⭐️Ikan",
             "type": 3,
@@ -38,8 +29,6 @@
             "quickSearch": 1,
             "filterable": 1
 },
-{"key":"小猫咪","name":"🐈小猫咪(官)®神农戴也🎷","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
-{"key":"py_xmaomi","name":" 🚩 🚩 🦂猫咪","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/sngdha/TvConfig/raw/branch/main/PY/py_xmaomi.py"},
 {"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Lezhu","name":"🍎乐猪TV〔SP〕","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt"},
