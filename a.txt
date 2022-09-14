@@ -1,5 +1,6 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/20220901kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+{"key": "csp_Kmys","name": "酷猫","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/qixiubaike163/m/raw/branch/main/jj.jar;md5;FE05AB5A06AF17292F3D61712908788D"},
 {"key": "csp_XYQBiu_影视工场","name":"影视工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MaoXYQ/影视工场.json","jar":"clan://TVBox/XYQBiu.jar"},
 {"key":"mtv_pc_酷云影视","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
 {"key":"360_spider","name":"360影视（官/解析）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
