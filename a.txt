@@ -1,6 +1,9 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/20220901kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
+{"key":"江湖官采","name":"🐞江湖官采(官)","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key": "csp_xpath_旧梦影视","name": "旧梦影视(XPMF)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/旧梦影视.json"},
+{"key":"9E03","name":"🐞9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/20029519/tvbox/raw/branch/main/xyqb/凌云影视.json","jar":"https://gitea.com/20029519/tvbox/raw/branch/main/xyqb/XYQPlugin_0915.jar"},
 {"key": "csp_XYQBiu_小猫咪","name": "小猫咪(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://gitea.com/20029519/tvbox/raw/branch/main/xyqb/小猫咪.json","jar":"https://gitea.com/20029519/tvbox/raw/branch/main/xyqb/XYQPlugin_0915.jar"},
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
