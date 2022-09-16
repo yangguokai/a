@@ -70,7 +70,26 @@
 {"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_pianba","name":"片吧影院/综合","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/片吧.txt"},
  {"key":"push_agent"        ,"name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-        {
+{
+
+       "key": "爱酷",
+
+      "name": "🍀爱酷〔V2〕",
+
+      "type": 3,
+
+      "api": "csp_AppYsV2",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1,
+
+      "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+
+    },
+    {
             "key": "天空资源",
             "name": "🐞天空资源",
             "type": 1,
