@@ -45,6 +45,7 @@
 {"key":"mtv_xp_乐猪影视","name":"💦乐猪影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/乐猪影视.txt"},
 {"key":"mtv_xp_乐猪影院","name":"💦乐猪影院","type":3,"api":"csp_XPathMac"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/乐猪影院.txt"},
 {"key":"北雁资源","name":"🦆北雁资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
+{"key":"FOX资源","name":"🐝FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "csp_AppYs_秒播",
             "name": "秒播/解析",
             "type": 3,
