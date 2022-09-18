@@ -48,6 +48,7 @@
 {"key":"FOX资源","name":"🐝FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_星空影视","name":"🥒星空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/星空影视.json"},
+{"key":"csp_biubiu_爱看影视","name":"🥒爱看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/爱看影视.json"},
 {"key": "csp_AppYs_秒播",
             "name": "秒播/解析",
             "type": 3,
