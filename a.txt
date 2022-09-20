@@ -21,7 +21,7 @@
 {"key":"csp_biubiu_AByy","name":"🐞AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/AB影院.txt"},
 {"key":"csp_xpath_wanmeikk","name":"🍓完美看看〔XP〕","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/完美看看.txt"},
 {"key":"csp_biubiu_饭团","name":"饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m//饭团.json"},
-{"key" : "csp_XYQBiu_凌云影视","name":"🍨凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/go/TVBox/-/raw/main/json/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"},
+{"key" : "csp_XYQBiu_凌云影视","name":"🍨凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/go/TVBox/-/raw/main/json/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/n/b/raw/branch/a/b/lo.png;md5;4fbfcc5f52d2c063f0ea4f0b9bcc04e4"},
 {"key":"优众影视","name":"🐞优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"key":"mtv_pc_293视频" ,"name":"293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三亿影视","name":"三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1},
