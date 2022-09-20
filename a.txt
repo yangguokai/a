@@ -140,7 +140,16 @@
         }
     ],
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3R2Ym94MjAyMjA4MDEvcmF3L2JyYW5jaC9tYWluL1RWL2xpdmUudHh0"]}]}],
+"lives" : [
+            {
+            "group" : "redirect",
+            "channels" : [
+                    {
+                    "name" : "live",
+                    "urls" : [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL24vYi9yYXcvYnJhbmNoL2EvYi96Yi50eHQ="]
+                }]
+        }],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
