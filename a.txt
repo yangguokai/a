@@ -8,7 +8,7 @@
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"mtv_pc_酷云影视","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
 {"key":"360_spider","name":"360影视（官/解析）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key": "APPTT","name": "图图SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch": 1,"searchable":1}, 
+{"key": "APPTT","name": "图图SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"http://刚刚.live/jar2/0920.jar"}, 
 {"key":"csp_xpath_007","name":"007","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
 {"key":"快看","name":"⭐️快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "⭐️Ikan","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -207,6 +207,5 @@
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
-"spider"://"https://yangguokai.github.io/a/220831jar.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
-           "http://刚刚.live/jar2/0920.jar"
+"spider":"https://yangguokai.github.io/a/220831jar.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65",
 }
