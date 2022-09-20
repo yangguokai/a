@@ -2,7 +2,7 @@
 {
   "author": "20220613",
   "name": "555电影",
-  "url": "https://www.xawqxh.net",
+  "url": "https://www.5dy9.cc",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
