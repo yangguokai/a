@@ -1,5 +1,5 @@
 {"sites": [
-{"key": "csp_xBPQ_测试","name": "️测试(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.f7hkj.cc/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://yangguokai.github.io/m/xBPQ.jar},
+{"key": "csp_xBPQ_测试","name": "️测试(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.f7hkj.cc/vodshow/{cateId}--------{catePg}---.html\"},"jar":"https://yangguokai.github.io/m/xBPQ.jar},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/20220901kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 {"key":"江湖官采","name":"🐞江湖官采(官)","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_112","name":"🐞工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/gongreng.json"},
