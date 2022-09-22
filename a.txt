@@ -121,7 +121,6 @@
 {"key":"鑫总资源","name":"🐞鑫总资源(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_AppYsV2_美剧范","name":"🐞美剧范(优)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"多多资源2","name":"🐞多多资源2(优)","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key": "T4","name": "🐞T4桉佬(搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4public","name":"🐌T4公共〔爬虫〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"学习","name":"🐯学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://yangguokai.github.io/a/学习园地.txt"},
