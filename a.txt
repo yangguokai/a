@@ -49,7 +49,7 @@
 {"key":"快播云","name":"🐞快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]}, 
 {"key":"csp_biubiu_voflix","name":"🍒voflix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/voflix.json"},
 {"key":"csp_biubiu_555电影","name":"🐞555电影/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/555电影.txt"},
-{"key":"csp_biubiu_看片狂人","name":"看片狂人/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/看片狂人.json"},
+//{"key":"csp_biubiu_看片狂人","name":"看片狂人/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/看片狂人.json"},
 {"key":"csp_xp_特狗影视","name":"🐞特狗影视/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":" https://yangguokai.github.io/a/tegou.json"},
 {"key":"csp_biubiu_六度TV","name":"🐞六度TV/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/六度影视.txt"},
 {"key":"csp_biubiu_双十电影","name":"🐞双十电影/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/双十电影.txt"},
