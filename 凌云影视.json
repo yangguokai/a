@@ -1,80 +1,119 @@
 {
-  "name": "voflix HD",
-  // 填网站链接
-  "url": "https://www.voflix.com",
-  // 这个不用动，是个别网站播放需要请求头时才用到
-  "User": "空",
-  // 首页展示
-  "shouye": "1",
-  // 网站列表的分类
-  "fenlei": "电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动漫$/show/4--------#国产剧$/show/13--------#欧美剧$/show/16--------#国漫$/show/4-中国-------#日漫$/show/4-日本-------",
-  // 网站翻页链接的后缀
-  "houzhui": "---.html",
-  // 截取的列表数组是否需要二次截取，0不需要，1需要
-  "shifouercijiequ": "1",
-  // 二次截取前
-  "jiequqian": "odule-page",
-  // 二次截取后
-  "jiequhou": "<div id=\"page\">",
-  // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "<a",
-  // 列表数组的后关键词
-  "jiequshuzuhou": "no-referrer",
-  // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "data-original=\"",
-  "tupianhou": "\"",
-  //列表中资源的标题前,后关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotiqian": "title=\"",
-  "biaotihou": "\"",
-  // 列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
-  "lianjieqian": "href=\"",
-  "lianjiehou": "\"",
-  // 搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
-  // 搜索页影片跳转详情页的中间标识链接部分
-  "sousuohouzhui": "/detail/",
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  // 播放截取的列表数组的前,后关键词
-  "bfjiequshuzuqian": "class=\"module-list",
-  "bfjiequshuzuhou": "</div>",
-  // 详情页状态,导演,主演,简介关键词
-  "zhuangtaiqian": "更新：</span>",
-  "zhuangtaihou": "</div>",
-  "daoyanqian": "导演：</span>",
-  "daoyanhou": "</div>",
-  "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</div>",
-  "juqingqian": "class=\"module-info-introduction-content\"",
-  "juqinghou": "</div>",
-  // 截取的播放列表数组是否需要二次截取，0不需要，1需要
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  // 播放剧集数组前,后关键词
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
-  // 播放剧集标题前,后关键词
-  "bfbiaotiqian": "<span>",
-  "bfbiaotihou": "</span>",
-  // 播放剧集链接前,后关键词
-  "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
+    "title": "凌云影视国内",
+    "author": "凌云",
+    "UserAgent":"",
+    "firstpage": "1",
+    "class_url": "https://www.lingyun.in/list/{cateId}-大陆-------{catePg}---{year}.html[firstPage=https://www.lingyun.in/list/{cateId}-大陆----------{year}.html]",
+    "class_name": "电视剧&电影&综艺&动漫",
+    "class_value": "tv&movie&variety&cartoon",
+    "filterdata":{
+"tv": [
+{"key": "year","name": "年份","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}
+]}],
+"movie": [
+{"key": "year","name": "年份","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}
+]}],
+"variety": [
+{"key": "year","name": "年份","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}
+]}],
+"cartoon": [
+{"key": "year","name": "年份","value": [
+{"n": "全部","v": ""},
+{"n": "2022","v": "2022"},
+{"n": "2021","v": "2021"},
+{"n": "2020","v": "2020"},
+{"n": "2019","v": "2019"},
+{"n": "2018","v": "2018"},
+{"n": "2017","v": "2017"},
+{"n": "2016","v": "2016"}
+]}]
+},
+
+
+    "cat_YN_twice": "0",
+    "cat_twice_pre": "",
+    "cat_twice_suf": "",
+    "cat_arr_pre": "<div class=\"li-img cover\">",
+    "cat_arr_suf": "</li>",
+    "cat_pic": "data-src=\"&&\"",
+    "cat_title": "alt=\"&&\"",
+    "cat_subtitle": "tag\"&&</div>",
+    "cat_url": "href=\"&&\"",
+    "cat_prefix": "https://www.lingyun.in",
+    "cat_suffix": "",
+
+
+    "search_url": "https://www.lingyun.in/search.html?wd={wd}",//搜索网址
+    "search_mode": "1",//搜索模式，0是json格式，1是网页截取
+    "jsonpic": "vod_pic",
+    "jsonname": "vod_name",
+    "jsonid": "vod_id",
+    "jsonstitle":"",
+    "sea_YN_twice": "0",//是否二次截取
+    "sea_twice_pre": "",//截取前
+    "sea_twice_suf": "",//截取后
+    "sea_arr_pre": "<dl><dt><a",//数组前
+    "sea_arr_suf": "</dt>",//数组后
+    "sea_pic": "data-src=\"&&\"",//图片
+    "sea_title": "alt=\"&&\"",//标题
+    "sea_url": "href=\"&&\"",//地址
+    "search_prefix": "https://www.lingyun.in",//地址前缀
+    "search_suffix": "",//地址后缀
+    "sea_subtitle": "空",//副标题
+
+
+    "force_play": "0",
+    "play_prefix": "空",
+    "play_suffix": "空",
+    "play_header": "空",
+
+    "proj_actor": "og:video:actor\" content=\"&&\"",//演员
+    "proj_plot": "og:description\" content=\"&&\"",//简介
+    "tab_YN_twice": "1",
+    "tab_twice_pre": "py-tabs",
+    "tab_twice_suf": "<div class=\"bd\">",
+    "tab_arr_pre": "<li",//线路前
+    "tab_arr_suf": "</li>",//线路后
+    "tab_title": "class=\"\">&&<small>",//线路名字
+
+    "list_YN_twice": "0",
+    "list_twice_pre": "空",
+    "list_twice_suf": "空",
+    "list_arr_pre": "<ul class=\"player ckp\">",//播放列表前
+    "list_arr_suf": "</ul>",//播放列表后
+
+    "epi_YN_twice": "0",
+    "epi_twice_pre": "空",
+    "epi_twice_suf": "空",
+    "epi_arr_pre": "<a",
+    "epi_arr_suf": "/a>",
+    "epi_title": "html\">&&<",
+    "epi_url": "href=\"&&\"",
+    "epiurl_prefix": "https://www.lingyun.in",
+    "epiurl_suffix": ""
+    
 }
