@@ -1,6 +1,6 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"酷云七七/sp","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/20220901kuyun77.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
-//{"key":"csp_Tkys","name":"天空影视(SP)","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1,"jar":"http://刚刚.live/jar2/gg0925.jar"},
+{"key":"csp_Tkys","name":"天空影视(SP)","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1,"jar":"http://刚刚.live/jar2/gg0925.jar"},
 {"key":"江湖官采","name":"江湖官采/官","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_112","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/suanjin/tv/raw/branch/master/main/MaooXP/gongreng.json"},
 {"key":"多多","name":"多多影视/优","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
