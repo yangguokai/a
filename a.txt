@@ -45,7 +45,7 @@
 {"key":"mtv_xp_奈飞中文","name":"💦奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/奈飞.json"},
 {"key":"mtv_xp_骚火电影","name":"💦骚火电影","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/骚火电影.json"},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xp_豆角影视","name":"🐞豆角影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":" https://yangguokai.github.io/a/doujiao.json"},
+{"key":"csp_xp_豆角影视","name":"🐞豆角影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":" https://yangguokai.github.io/a/doujiao.json","jar":"http://刚刚.live/jar2/gg0925.jar"},
 {"key":"快播云","name":"🐞快播云","type":0,"api":"http://www.kuaibozy.com/api.php/provide/vod/at/xml/","playUrl":"","categories":["国产剧","港台剧","日韩剧","欧美剧","泰剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片"]}, 
 {"key":"csp_biubiu_voflix","name":"🍒voflix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/voflix.json"},
 {"key":"csp_biubiu_555电影","name":"🐞555电影/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/555电影.txt"},
