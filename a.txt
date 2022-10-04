@@ -13,7 +13,7 @@
 {"key":"csp_Auete","name":"Auete/sp","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_视界影视","name":"视界影视/sp","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"追剧喵","name":"追剧喵/sp","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_293视频","name":"293视频/sp" ,"type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://刚刚.live/jar2/gg0925.jar"},
+{"key":"mtv_pc_293视频","name":"293视频/sp" ,"type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/100477293.jar"},
 {"key":"csp_GitCafe","name":"小纸条/云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json","jar":"http://刚刚.live/jar2/gg0925.jar"},
 {"key": "APPTT","name": "图图/SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"http://刚刚.live/jar2/gg0925.jar"},
 {"key":"mtv_pc_三亿影视","name":"三亿影视","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
