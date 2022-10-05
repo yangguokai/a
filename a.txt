@@ -6,6 +6,7 @@
 //{"key":"csp_Tkys","name":"天空影视(SP)","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpath_fantuan","name": "饭团HD(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/23786/fantuan.json?sign=GhZAwYycDrC3Kj-hTbzYPHKa4EUDWFh7gzwDGNsPW10%3D%3A0"},
 {"key": "csp_xBPQ_小猫咪","name": "小猫咪|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/小猫咪.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
+{"key": "csp_xBPQ_小猫咪","name": "小猫咪2|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/小猫咪2.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key":"江湖官采","name":"江湖官采/官/解析","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_112","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/工人影视.json"},
 {"key":"多多","name":"⭐️多多影视/优","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
