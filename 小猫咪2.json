@@ -1,7 +1,7 @@
 {
 "作者": "劳思",
 "站名": "小猫咪",
-"主页url": "https://fositv.com",
+"主页url": "http://xmaomi.top",
 "请求头": "",
 "热门推荐": "1",
 "起始页": "1",
@@ -50,7 +50,7 @@
 "播放列表": "<a&&/a>",
 "播放标题": ">&&<",
 "播放链接": "href=\"&&\"",
-"播放链接前缀": "https://fositv.com",
+"播放链接前缀": "http://xmaomi.top",
 "免嗅": "0",
 "嗅探词":".m3u8",
 "过滤词":"",
@@ -59,7 +59,7 @@
 *搜索可包含页码，会把搜索到的全部内容展示出来
 *一般用模式1：截取模式，json模式很多网站不支持
 */
-"搜索url": "https://fositv.com/vodsearch/{wd}----------{pg}---.html",
+"搜索url": "http://xmaomi.top/vodsearch/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组": "class=\"myui-vodlist__thumb&&</li>",
@@ -70,7 +70,7 @@
 /**
 *第一页与其他页不一样的直接用英文中括号加在分类url末尾
 */
-"分类url": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+"分类url": "http://xmaomi.top/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 /**
 *分类内置数字和拼音的四在类型，可用键$值的方式直接填写在分类中，用#分隔，例
 "分类": "电影$1#电视剧$2",
