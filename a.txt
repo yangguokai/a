@@ -13,7 +13,7 @@
  \"播放标题\":\">&&</span>\",
 \"播放数组\":\"class=\\\"module-blocklist&&</div>\"，
  \"分类url\":\"https://dyxs20.com/v/{cateId}/page/{catePg}.html\",
-\"筛选\":\"0\"}","jar":"https://yangguokai.github.io/a/100477293.jar"},
+\"筛选\":\"0\"}","jar":"https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key":"多多","name":"⭐️多多影视/优","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"快看","name":"快看/sp","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_LiteApple","name":"小苹果/sp","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
