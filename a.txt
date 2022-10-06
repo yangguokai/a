@@ -11,7 +11,7 @@
 {"key":"csp_xpath_112","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/工人影视.json"},
 {"key":"多多","name":"⭐️多多影视/优","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"快看","name":"快看/sp","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lezhu","name":"乐猪TV/SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1}
+{"key":"csp_Lezhu","name":"乐猪TV/SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_LiteApple","name":"小苹果/sp","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"两个BT/sp","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_CZSPP","name":"厂长资源/sp","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
