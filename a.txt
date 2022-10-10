@@ -26,7 +26,7 @@
 {"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
 {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"⭐️77","type":3},
 {"key":"mtv_pc_焦炭影视","name":"焦炭影视/sp","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_神马影视","name":"神马影视/sp","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1},
+//放不了暂时{"key":"mtv_pc_神马影视","name":"神马影视/sp","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Wmkk","name":"完美看看/sp","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"csp_Auete","name":"Auete/sp","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_007","name":"007/xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
