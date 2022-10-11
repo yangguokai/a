@@ -37,7 +37,7 @@
 //{"key":"csp_Auete","name":"Auete/sp","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "mtv_pc_完美看看","name": "完美看看","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_007","name":"007/xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
-{"key":"csp_xpath_jbb","name":"剧白白/xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/jubaibai.json"},
+{"key":"csp_xpath_jbb","name":"剧白白/xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/剧白白.txt"},
 {"key":"考拉TV","name":"🐨考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_旧梦","name":"旧梦影视/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/旧梦影视.json"},
 {"key":"mtv_pc_酷云影视","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
