@@ -72,6 +72,8 @@
 {"key":"csp_biubiu_双十电影","name":"🐞双十电影/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/双十电影.txt"},
 {"key":"mtv_xp_乐猪影视","name":"💦乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/乐猪影视.txt"},
 {"key":"mtv_xp_乐猪影院","name":"💦乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/乐猪影院.txt"},
+{"key":"csp_xpath_libv","name":"Libvio(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/Libvio.json"},
+{"key": "蓝光影院","name": "蓝光(XB)","type": 3, "api": "csp_XBiubiu", "searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://yangguokai.github.io/m/蓝光.json"},
 //{"key":"csp_xpath_czspp","name":"『厂长资源』","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.134584.xyz/0907/czspp.json"},
 {"key":"csp_xpath_xqmi","name":"『小强迷』","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/xqmi.json"},
 {"key":"csp_xpath_xuangz","name":"『尘落电影』","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/xuangz.json"},
