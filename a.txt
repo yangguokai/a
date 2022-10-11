@@ -12,6 +12,8 @@
 //{"key": "csp_xBPQ_Auete影视","name":"Auete影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/Auete影视.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_F7好看剧","name":"F7好看剧|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/F7好看剧.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
+{"key": "csp_xBPQ_干饭影视","name":"干饭影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/干饭影视 xBPQ.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
+{"key": "csp_xBPQ_555电影","name":"555电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/555电影 xBPQ.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key":"江湖官采","name":"江湖官采/官/解析","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_112","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/工人影视.json"},
 {"key":"多多","name":"⭐️多多影视/优","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
