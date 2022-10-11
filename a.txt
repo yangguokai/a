@@ -42,7 +42,6 @@
 {"key":"csp_xpath_007","name":"007/xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
 {"key":"考拉TV","name":"🐨考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_旧梦","name":"旧梦影视/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/旧梦影视.json"},
-{"key":"mtv_pc_酷云影视","name":"酷云影视","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/MiaoTV/box/-/raw/master/Jar/资源包2.jpg;md5;2F19C527B9A335FB1415C5F9686515C8"},
 {"key":"csp_biubiu_星空影视1","name":"星空影视/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/星空影视.json"},
 {"key":"mtv_xp_不卡影院","name":"不卡影院/不支持搜索","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://yangguokai.github.io/a/不卡影院.txt"},
 {"key":"mtv_xp_大米星球","name":"大米星球/XB","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/大米星球.txt"},
