@@ -1,7 +1,8 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"酷云七七/sp","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/100477293.jar"},
 {"key":"mtv_pc_293视频","name":"293视频/sp" ,"type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/100477293.jar"},
-{"key":"csp_GitCafe","name":"小纸条/云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json","jar":"http://刚刚.live/jar2/gg0925.jar"},
+{"key": "Upyunso","name":"云盘(仅搜索)","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
+//{"key":"csp_GitCafe","name":"小纸条/云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json","jar":"http://刚刚.live/jar2/gg0925.jar"},
 {"key": "APPTT","name": "图图/SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"http://刚刚.live/jar2/gg0925.jar"},
 {"key":"360_spider","name":"360影视（官/解析）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪/解析","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
