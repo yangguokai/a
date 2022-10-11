@@ -8,7 +8,7 @@
 //{"key":"csp_Tkys","name":"天空影视(SP)","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1},
 //{"key": "csp_xpath_fantuan","name": "饭团HD(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/23786/fantuan.json?sign=GhZAwYycDrC3Kj-hTbzYPHKa4EUDWFh7gzwDGNsPW10%3D%3A0"},
 {"key": "csp_xBPQ_小猫咪","name":"小猫咪|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/小猫咪.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
-{"key": "csp_xBPQ_1080看视界","name":"1080看视界|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/1080看视界.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
+{"key": "csp_xBPQ_1080看视界","name":"1080看视界|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/1080看视界.json","jar": "https://yangguokai.github.io/a/XBPQ1011.jar"},
 //{"key": "csp_xBPQ_Auete影视","name":"Auete影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/Auete影视.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_F7好看剧","name":"F7好看剧|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/F7好看剧.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
