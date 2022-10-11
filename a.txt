@@ -92,7 +92,7 @@
 //{"key":"csp_QXBiubiu_600影视","name":"『600影视』","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/600影视.json","jar":"http://js.134584.xyz/jar/77.jar"},
 {"key":"csp_xpath_vip1280","name":"『VIP电影』","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/vip1280.json"},
 //{"key":"csp_xpath_94sm","name":"『94神马』","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://js.134584.xyz/0907/94sm.json"},
-{"key":"csp_xpath_农民影视","name":"『农民影视』","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.134584.xyz/0907/nongminyingshi.json"},
+//{"key":"csp_xpath_农民影视","name":"『农民影视』","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.134584.xyz/0907/nongminyingshi.json"},
 {"key":"csp_biubiu_在线之家","name":"在线之家/XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/在线之家.json"},
 {"key":"北雁资源","name":"北雁资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
