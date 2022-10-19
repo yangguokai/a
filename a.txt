@@ -45,7 +45,6 @@
 {"key": "csp_xBPQ_剧白白","name":"剧白白|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/剧白白.txt","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_巨人影院","name":"巨人影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/巨人影院xBPQ.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_1080在线","name":"1080在线|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/1080在线.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
-{"key": "csp_xBPQ_52看剧","name":"52看剧|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/52看剧.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_爱酷影视","name":"爱酷影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/爱酷影视.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_神马影院","name":"神马影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/神马影院.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key":"csp_xpath_007","name":"007/xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/007.json"},
