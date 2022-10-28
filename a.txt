@@ -38,7 +38,7 @@
 //{"key":"csp_xBPQ_爱看影视","name":"爱看影视|xBPQ选3","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"myui-content&&</ul>\",\"分类url\":\"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/\"}","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 //{"key": "csp_xBPQ_Auete影视","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/a/Auete影视.json","jar":"https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
-{"key":"csp_xBPQ_小猫咪","name":"小猫咪|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/小猫咪.json","jar":"https://yangguokai.github.io/m/xBPQ1016.jar"},
+{"key":"csp_xBPQ_小猫咪","name":"小猫咪|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/小猫咪.json","jar":"https://yangguokai.github.io/m/1028唐僧.jar"},
 {"key": "csp_xBPQ_二个BT","name":"二个BT(XB)","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/二个BT(XB).json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_厂长资源","name":"厂长资源|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/厂长资源xBPQ.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_快看影视","name":"快看影视|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/快看影视xBPQ.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
@@ -65,8 +65,7 @@
 {"key": "csp_xBPQ_耐看点播","name":"耐看点播|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/耐看点播.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_影视工场","name":"影视工场|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/影视工场.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
 {"key": "csp_xBPQ_在线之家","name":"在线之家|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/在线之家.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
-{"key": "csp_xBPQ_神马影院","name":"神马影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/神马影院.json","jar": "https://yangguokai.github.io/a/
-xBPQ1022.jar"},
+{"key": "csp_xBPQ_神马影院","name":"神马影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/神马影院.json","jar": "https://yangguokai.github.io/m/1028唐僧.jar"},
 {"key": "csp_xBPQ_番茄影视","name":"番茄影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/番茄影视.json","jar": "https://yangguokai.github.io/m/xBPQ1016.jar"},
 {"key": "csp_xBPQ_胖虎影视","name":"胖虎影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/胖虎影视.json","jar": "https://yangguokai.github.io/m/xBPQ1016.jar"},
 {"key": "csp_xBPQ_创意影视","name":"创意影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/创意影视.json","jar": "https://yangguokai.github.io/m/xBPQ1016.jar"},
