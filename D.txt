@@ -1,6 +1,5 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_293视频","name":"293视频/sp" ,"type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "农民","name": "农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yangguokai.github.io/m/农民.json"},
 {"key":"Gitcafe","name":"小纸条(搜)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 {"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
