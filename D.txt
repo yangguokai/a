@@ -34,7 +34,7 @@
 //{"key":"csp_Wmkk","name":"完美看看/sp","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"mtv_pc_完美看看","name": "完美看看","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_xBPQ_Auete影视","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/a/Auete影视.json","jar":"https://yangguokai.github.io/a/1028唐僧.jar"},
-{"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json","jar": "https://yangguokai.github.io/a/xBPQ_0926.jar"},
+{"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
 {"key": "csp_xBPQ_农民影视","name":"农民影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/农民影视xBPQ.json"},
 {"key":"csp_xBPQ_追剧达人","name":"追剧达人|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/追剧达人xBPQ.json"},
 {"key": "csp_xBPQ_蓝光影院","name":"蓝光影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/蓝光影院.json"},
