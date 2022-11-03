@@ -11,6 +11,8 @@
 {"key":"csp_fant","name":"饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Zjdr","name":"追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ny","name":"念影┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"❤双十┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1}
+{"key":"douban","name":"豆瓣荐片┃t4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"360_spider","name":"360影视（官/解析）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪/解析","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key": "csp_xpath_fantuan","name": "饭团HD(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/23786/fantuan.json?sign=GhZAwYycDrC3Kj-hTbzYPHKa4EUDWFh7gzwDGNsPW10%3D%3A0"},
@@ -180,7 +182,6 @@
 {"key":"鑫总资源","name":"🐞鑫总资源(优)","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_AppYsV2_美剧范","name":"🐞美剧范(优)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
 //{"key":"多多资源2","name":"🐞多多资源2(优)","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key": "T4","name": "🐞T4爬虫(仅搜索)","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4public","name":"🐌T4公共〔爬虫〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"学习","name":"🐯学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://yangguokai.github.io/a/学习园地.txt"},
 //{"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/bao523/skf/raw/branch/main/幼儿乐园.json"},
