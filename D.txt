@@ -1,18 +1,18 @@
 {"sites": [
 {"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "农民","name": "农民|SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yangguokai.github.io/m/农民.json","jar":"https://yangguokai.github.io/a/1028唐僧.jar"},
-{"key":"Gitcafe","name":"小纸条(搜)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/1028唐僧.jar"},
+{"key": "农民","name": "农民|SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yangguokai.github.io/m/农民.json"},
+{"key":"Gitcafe","name":"小纸条(搜)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 {"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
-{"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/top2.jar"},
+{"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 //{"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/top2.jar"},
 //先不用{"key": "Upyunso","name":"云盘(搜)","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://yangguokai.github.io/a/俊.jar"},
 {"key":"Auete","name": "Auete|SP","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "APPTT","name": "图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"追剧达人|SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
 {"key":"csp_ny","name":"念影|SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
-{"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
 {"key":"360_spider","name":"360影视（官/解析）","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪/解析","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_xpath_112","name":"工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/工人影视.json"},
@@ -24,7 +24,7 @@
 {"key":"csp_剧荒","name":"剧荒|SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"追剧喵|SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"⭐️77","type":3},
-{"key":"csp_Ysgc","name":"影视工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysgc","name":"影视工厂|SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三五电影","name":"三五电影|SP","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_CZSPP","name":"厂长资源|SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_神马影视","name":"神马影视|SP","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1},
@@ -281,6 +281,6 @@
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
-"spider":"https://yangguokai.github.io/a/1104唐三.jar"
+"spider":"https://yangguokai.github.io/a/1028唐僧2.jar"
 
 }
