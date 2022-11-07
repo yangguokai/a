@@ -208,18 +208,6 @@
         },
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/bao523/skf/raw/branch/main/高中课堂.json"}
     ],
-
-//"lives" : [
-            {
-            "group" : "redirect",
-            "channels" : [
-                    {
-                    "name" : "live",
-                    "urls" : [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL24vYi9yYXcvYnJhbmNoL2EvYi96Yi50eHQ="]
-                }]
-        }],
-
 "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
