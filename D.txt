@@ -7,7 +7,7 @@
 {"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 //{"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/top2.jar"},
 //先不用{"key": "Upyunso","name":"云盘(搜)","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://yangguokai.github.io/a/俊.jar"},
-{"key":"Auete","name": "Auete|SP","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key":"Auete","name": "Auete|SP","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"./jar/xo.jar;md5;89c9eaec380dc16ec274b772346270ba"},
 {"key": "Ikan","name": "Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "APPTT","name": "图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch": 1,"searchable":1},
 {"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
