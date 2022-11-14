@@ -40,7 +40,7 @@
 //{"key":"mtv_pc_完美看看","name": "完美看看","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mtv_xp_骚火电影","name":"骚火电影|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/骚火电影.json"},
 {"key":"mtv_xp_乐猪影院","name":"乐猪影院|XP","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/乐猪影院.txt"},
-//{"key":"Auete影视","name":"Auete|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/Auete影视XB.json"},
+{"key":"Auete影视","name":"Auete|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/Auete影视XB.json"},
 {"key":"csp_biubiu_饭团","name":"饭团影视|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/饭团.json"},
 {"key":"csp_xpath_007","name":"007影视|xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/007影视.json"},
 {"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
