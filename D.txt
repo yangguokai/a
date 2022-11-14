@@ -44,7 +44,8 @@
 {"key":"csp_biubiu_饭团","name":"饭团影视|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/饭团.json"},
 {"key":"csp_xpath_007","name":"007影视|xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/007影视.json"},
 {"key": "csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
-{"key": "csp_xBPQ_Auete","name":"Auete|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json"},
+{"key": "csp_xBPQ_Auete","name":"Auete|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json","jar": "https://yangguokai.github.io/a/
+xBPQ1107.jar"},
 {"key": "csp_xBPQ_农民影视","name":"农民影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/农民影视xBPQ.json"},
 {"key":"csp_xBPQ_追剧达人","name":"追剧达人|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/追剧达人xBPQ.json"},
 {"key": "csp_xBPQ_蓝光影院","name":"蓝光影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/蓝光影院.json"},
