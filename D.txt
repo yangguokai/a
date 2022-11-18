@@ -5,14 +5,14 @@
 {"key":"Gitcafe","name":"小纸条(搜)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 {"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 {"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
-{"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
+//{"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 //{"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/top2.jar"},
 //先不用{"key": "Upyunso","name":"云盘(搜)","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://yangguokai.github.io/a/俊.jar"},
 //{"key":"Auete","name":"Auete|SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 {"key": "APPTT","name": "图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
+{"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
 {"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
 //{"key":"csp_Wmkk","name":"完美看看|sp","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Zjdr","name":"追剧达人|SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
@@ -41,7 +41,7 @@
 {"key":"csp_xpath_007","name":"007影视|xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/007影视.json"},
 {"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json","jar":"https://yangguokai.github.io/a/xBPQ1107.jar"},
-{"key":"csp_xBPQ_石榴电影","name":"石榴电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/石榴电影(xBPQ).json"},
+{"key":"csp_xBPQ_石榴电影","name":"石榴电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/石榴电影(xBPQ).json","jar":"https://yangguokai.github.io/a/xBPQ1107.jar"},
 {"key": "csp_xBPQ_神马影院","name":"神马影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/神马影院.json"},
 {"key":"csp_xBPQ_农民影视","name":"农民影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/农民影视xBPQ.json"},
 {"key":"csp_xBPQ_诺讯影视","name":"诺讯影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/诺讯影视(xBPQ).json"},
@@ -268,6 +268,5 @@
 //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 
-"spider"://"https://yangguokai.github.io/a/1028唐僧2.jar;md5;198f96105b8c57ae8feb17b009e9047b",
-"https://yangguokai.github.io/a/1112暴力.jar"
+"spider":"https://yangguokai.github.io/a/1028唐僧2.jar;md5;198f96105b8c57ae8feb17b009e9047b"
 }
