@@ -222,14 +222,14 @@
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"刚佬解析","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"肥猫解析2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url="},
-{"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
 {"name":"OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
 {"name":"OK解析","type":0,"url":"https://okjx.cc/?url="},
 {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
 {"name":"公益1","type":1,"url":"http://3.37.195.161:54371/parse/api/江湖.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
 ],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV",
+"mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","ltnb","rx","CL4K","xfyun","wuduzy"],
 
   
 "ijk":[
