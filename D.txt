@@ -225,7 +225,7 @@
 {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"刚佬解析","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
-{"name": "肥猫解析2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url="},
+{"name":"肥猫解析2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url="},
 {"name":"okjx","type":0,"url":"https://okjx.cc/?url="}],"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV",
 "mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","ltnb","rx","CL4K","xfyun","wuduzy"],
 {"name":"OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
