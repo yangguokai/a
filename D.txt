@@ -6,13 +6,13 @@
 {"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 {"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c"},
 {"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/1104唐三.jar"},
-{"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/1104唐三.jar"},
+//{"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/1104唐三.jar"},
 //{"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/top2.jar"},
 //{"key":"Auete","name":"Auete|SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 {"key": "APPTT","name": "图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
+{"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
 {"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/饭硬.jar"},
 {"key":"csp_Lezhu","name":"乐猪TV|SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/1119巧技.jar"},
 //{"key":"csp_Wmkk","name":"完美看看|sp","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -269,6 +269,6 @@
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 
 "spider"://"https://yangguokai.github.io/a/1028唐僧2.jar;md5;198f96105b8c57ae8feb17b009e9047b",
-//"https://yangguokai.github.io/a/1028唐僧3.jar;md5;a3f27b2f8ad96ae9f8c2da4e7a70d9d3",
-"https://yangguokai.github.io/a/1104唐三.jar"
+"https://yangguokai.github.io/a/1028唐僧3.jar;md5;a3f27b2f8ad96ae9f8c2da4e7a70d9d3"
+
 }
