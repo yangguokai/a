@@ -275,7 +275,6 @@
 //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 
-"spider"://"https://yangguokai.github.io/a/1028唐僧2.jar;md5;198f96105b8c57ae8feb17b009e9047b",
-"https://yangguokai.github.io/a/1028唐僧3.jar;md5;a3f27b2f8ad96ae9f8c2da4e7a70d9d3"
+"spider":"https://yangguokai.github.io/a/1028唐僧4.jar;md5;7ded374bc377a7aaadfea09c3bcae2a0"
 
 }
