@@ -9,7 +9,7 @@
 {"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
 {"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
 {"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
-{"key":"APPTT","name":"图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1},
+//{"key":"APPTT","name":"图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"AppTT","name": "图图YS","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
 //{"key":"AppTT","name":"图图YS","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"searchable":1,"jar":"https://yangguokai.github.io/a/1119巧技.jar;md5;c5b6afae170c32d8725afa95b3619110"},
 {"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/厂长奥特.jar;md5;b1106a30c00023fc614c127cea04a331"},
