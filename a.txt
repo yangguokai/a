@@ -10,7 +10,7 @@
 {"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
 {"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 {"key":"APPTT","name":"图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"AppTT","name":"图图YS","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"searchable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"AppTT","name":"图图YS","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 {"key":"csp_Lgyy","name":"蓝光|SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"饭团|SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
