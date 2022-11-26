@@ -10,7 +10,7 @@
 {"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
 {"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 //{"key":"APPTT","name":"图图|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://yangguokai.github.io/a/1028唐僧7.jar;md5;f8ac3ea0ae584ee50281b15a8617f3c4"},
-{"key":"APPTT","name":"图图1|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://110.42.6.212:7788","jar":"https://yangguokai.github.io/a/tutuguaip.jar},
+{"key":"APPTT","name":"图图1|SP","api": "csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://110.42.6.212:7788","jar":"https://yangguokai.github.io/a/tutuguaip.jar"},
 { "key": "AppTT","name": "图图YS","type": 3, "api": "csp_Dora", "jar": "http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
 //{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 //{"key":"AppTT","name":"图图YS","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"searchable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
