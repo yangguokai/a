@@ -279,6 +279,6 @@
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 
 "spider"://"https://yangguokai.github.io/a/1028唐僧7.jar;md5;f8ac3ea0ae584ee50281b15a8617f3c4",
-"https://yangguokai.github.io/a/唐三1201.jar;md5;f8ac3ea0ae584ee50281b15a8617f3c4"
+"https://yangguokai.github.io/jar/唐三1201.jar;md5;f8ac3ea0ae584ee50281b15a8617f3c4"
 
 }
