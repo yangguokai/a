@@ -75,7 +75,7 @@
 //{"key": "csp_xBPQ_剧白白","name":"剧白白|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/剧白白.txt"},
 {"key":"csp_xBPQ_巨人影院","name":"巨人影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/巨人影院xBPQ.json"},
 {"key":"csp_xBPQ_1080在线","name":"1080在线|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/1080在线.json"},
-{"key": "csp_xBPQ_爱酷影视","name":"爱酷影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/爱酷影视.json"},
+//网站挂{"key": "csp_xBPQ_爱酷影视","name":"爱酷影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/爱酷影视.json"},
 {"key":"csp_xBPQ_LIBVIO","name":"LIBVIO|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/LIBVIOxBPQ.json"},
 //网站挂{"key": "csp_xBPQ_皮皮泡","name":"皮皮泡1|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/皮皮泡.json"},
 {"key":"csp_xBPQ_RENPE","name":"RENPE|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/RENPE.json"},
