@@ -7,7 +7,7 @@
 //{"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"62ea869380564b8fb15af57e8b22405f"},
 {"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"62ea869380564b8fb15af57e8b22405f"},
 {"key":"Yisou","name":"易搜(搜)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"62ea869380564b8fb15af57e8b22405f"},
-{"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
+{"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"62ea869380564b8fb15af57e8b22405f","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
 {"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://yangguokai.github.io/a/阿里云搜.jar"},
 //{"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"0ea690ae2bbd42e2bad5b93200569c3c","jar":"https://yangguokai.github.io/a/阿里唐三.jar"},
 {"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
