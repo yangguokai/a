@@ -69,7 +69,7 @@
 {"key": "csp_xBPQ_莫扎兔","name":"莫扎兔|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/莫扎兔xBPQ.json"},
 {"key": "csp_xBPQ_F7好看剧","name":"F7好看剧|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/F7好看剧.json"},
 {"key": "csp_xBPQ_干饭影视","name":"干饭影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/干饭影视XBPQ.json"},
-{"key": "csp_xBPQ_冷曦影视","name":"冷曦影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/冷曦影视.json"},
+{"key": "csp_xBPQ_冷曦影视","name":"冷曦影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/冷曦影视.json"},
 //{"key": "csp_xBPQ_剧白白","name":"剧白白|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/剧白白.txt"},
 {"key":"csp_xBPQ_巨人影院","name":"巨人影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/巨人影院xBPQ.json"},
 {"key":"csp_xBPQ_1080在线","name":"1080在线|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/1080在线.json"},
