@@ -55,6 +55,7 @@
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/石榴电影(xBPQ).json"},
 {"key":"csp_xBPQ_乐猪TV","name":"乐猪TV|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/乐猪TV.json"},
+{"key":"csp_xBPQ_红领巾","name":"红领巾|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/红领巾.json"},
 {"key": "csp_xBPQ_TVB云播","name":"TVB云播|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/TVB云播xBPQ.json"},
 {"key": "csp_xBPQ_神马影院","name":"神马影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/神马影院.json"},
 {"key":"csp_xBPQ_农民影视","name":"农民影视|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/农民影视xBPQ.json"},
