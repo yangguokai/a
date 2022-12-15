@@ -2,6 +2,10 @@
 {"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQ_lu1","name":"️电视直播专用","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/电视直播源.json"},
 {"key":"csp_xBPQ_dszb","name":"电视直播","type":3,"api": "csp_xBPQ","searchable": 0,"quickSearch":0,"filterable":0,"ext": "https://yangguokai.github.io/m/电视直播.json"},
+{"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories": [
+]},
+{"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"hnzy","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "农民","name": "农民|SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yangguokai.github.io/m/农民.json"},
 {"key":"Gitcafe","name":"小纸条(搜)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"62ea869380564b8fb15af57e8b22405f","jar":"https://yangguokai.github.io/a/1028唐僧4.jar;md5;7ded374bc377a7aaadfea09c3bcae2a0"},
 {"key":"zhaozy","name":"找资源(搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"62ea869380564b8fb15af57e8b22405f","jar":"https://yangguokai.github.io/a/1028唐僧4.jar;md5;7ded374bc377a7aaadfea09c3bcae2a0"},
@@ -153,10 +157,6 @@
 {"key":"200121","name":"200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
 {"key": "csp_AppYs_秒播","name": "秒播/解析","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
-{"key": "光速资源","name": "️🐞光速","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories": [
-]},
-{"key":"hnzy","name":"红牛资源(SP)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_独优影视","name":"独优/解析","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_xpath_pianba","name":"片吧影院/综合","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/片吧.txt"},
 {"key":"push_agent"        ,"name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
