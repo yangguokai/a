@@ -11,7 +11,7 @@
 {"key":"AliPS","name":"阿里(搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":"https://yangguokai.github.io/a/阿里云盘2.jar"},
 {"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok","jar":"https://yangguokai.github.io/a/阿里云盘2.jar"},
 {"key":"APPTT","name":"图图|SP","api":"csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.205.88.126:7788"},
-{"key":"AppTT","name":"图图YS","type":3,"api":"csp_Dora","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://yangguokai.github.io/jar/唐三1201.jar;md5;bb849cca0231f1f83afe64609fc06e8d"},
+{"key":"AppTT","name":"图图YS","type":3,"api":"csp_Dora","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"新视觉|SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
@@ -39,11 +39,11 @@
 {"api":"csp_AppYsV2","ext":"http://123.250idc.com/mogai_api.php/v1.vod","key":"csp_1","filterable":1,"name":"77","type":3},
 {"key":"csp_Ysgc","name":"影视工厂|SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三五电影","name":"三五电影|SP","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://yangguokai.github.io/jar/唐三1201.jar;md5;bb849cca0231f1f83afe64609fc06e8d"},
-{"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://yangguokai.github.io/jar/唐三1201.jar;md5;bb849cca0231f1f83afe64609fc06e8d"},
-{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://yangguokai.github.io/jar/唐三1201.jar;md5;bb849cca0231f1f83afe64609fc06e8d"},
-{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://yangguokai.github.io/jar/唐三1201.jar;md5;bb849cca0231f1f83afe64609fc06e8d"},
-{"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"https://yangguokai.github.io/jar/唐三1201.jar;md5;bb849cca0231f1f83afe64609fc06e8d"},
+{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
+{"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
+{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
+{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
+{"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
 {"key":"mtv_pc_神马影视","name":"神马影视|SP","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Tkys","name":"天空影视|SP","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_骚火电影","name":"骚火电影|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/骚火电影.json"},
@@ -295,7 +295,7 @@
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 
 "spider"://"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557",
-"https://yangguokai.github.io/jar/1215.jar"
+"https://yangguokai.github.io/jar/1215.jar;md5;58bace2715918a6fd783931d03586372"
 
 
 }
