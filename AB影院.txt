@@ -1,5 +1,5 @@
 {"name": "AB影院",
-"url": "https://www.abu22.com",
+"url": "https://abu22.com",
 "tihuan": "cnzz.com",
 "User": "空",
 "fenlei": "电影$/vodshow/1--hits------#电视剧$/vodshow/2--hits------#综艺$/vodshow/3--hits------#动漫$/vodshow/4--hits------#纪录片$/vodshow/5--hits------",
