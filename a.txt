@@ -78,7 +78,7 @@
 {"key":"csp_xpath_007","name":"007影视|xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/007影视.json"},
 //{"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
 {"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/饭团影视.json"},
-{"key":"csp_xBPQ_视觉影视","name":"视觉影视|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/视觉影视.json"},
+{"key":"csp_xBPQ_视觉影视","name":"视觉影视|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/视觉影视.json","jar":"https://yangguokai.github.io/m/1229XBPQ.jar;md5;1e482db250882f2b2e0da804f59bb557"},
 {"key":"视觉影视","name":"️视觉影视","type":3,"api":"XBPQ","ext":"免嗅:1,分类url:https://www.shijueyy.com/v_show/{cateId}-{area}---{lang}----{catePg}---{year}.html"},
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json"},
 {"key":"csp_xBPQ_真不卡影院","name":"真不卡影院|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/真不卡影院xBPQ.json"},
