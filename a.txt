@@ -75,6 +75,7 @@
 //{"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
 {"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/饭团影视.json"},
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json"},
+{"key":"csp_xBPQ_真不卡影院","name":"真不卡影院|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/真不卡影院xBPQ.json"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/石榴电影(xBPQ).json"},
 {"key":"csp_xBPQ_布蕾影院","name":"布蕾影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/布蕾影院.json"},
 {"key":"csp_xBPQ_乐猪TV","name":"乐猪TV|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/乐猪TV.json"},
