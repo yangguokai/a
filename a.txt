@@ -73,7 +73,6 @@
 {"key":"csp_xpath_007","name":"007影视|xp","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/007影视.json"},
 //{"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/a/饭团影视HD.json"},
 {"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/饭团影视.json"},
-//{"key":"csp_xBPQ_喵影视","name":"喵影视|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/喵影视.json","jar":"https://yangguokai.github.io/jar/XBPQ_1229.jar"},
 {"key":"csp_xBPQ_喵影","name":"喵影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"免嗅":"1","分类url":"http://www.miaoys.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/石榴电影(xBPQ).json"},
