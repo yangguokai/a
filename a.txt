@@ -70,7 +70,7 @@
             "playerType": "2",
             "quickSearch": 1,
             "filterable": 1,
-            "ext": " ./浮生半日xBPQ.json","jar":"https://yangguokai.github.io/m/XBPQ1229.jar"},
+            "ext": " ./浮生半日xBPQ.json","jar":"https://yangguokai.github.io/m/1229XBPQ.jar"},
 {"key":"csp_biubiu_饭团","name":"饭团影视|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/饭团.json"},
 {"key":"csp_biubiu_口袋影院","name":"口袋影院|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/口袋影院.json"},
 {"key": "蓝光影院","name": "蓝光|XB","type": 3, "api": "csp_XBiubiu", "searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "https://yangguokai.github.io/m/蓝光.json"},
