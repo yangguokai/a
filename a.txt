@@ -50,6 +50,7 @@
 {"key":"追剧喵","name":"追剧喵|SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_三五电影","name":"三五电影|SP","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"IKan","name":"爱看|SP","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
+{"key":"Dy555","name":"555|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
 {"key":"Tian","name":"天天|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"Yanet","name":"鸭奶飞|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
 //{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
