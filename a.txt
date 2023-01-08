@@ -19,7 +19,7 @@
 {"key":"Upyunso","name":"云盘(搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"APPTT","name":"图图|SP","api":"csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.107:9911"},
 {"key":"AppTT","name":"图图YS","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-{"key":"IKan","name":"爱看|SP","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/dream/raw/branch/main/ts.jar"},
+{"key":"IKan","name":"爱看|SP","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 //{"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 //{"key":"Ikan","name":"爱看|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/1028唐僧4.jar;md5;7ded374bc377a7aaadfea09c3bcae2a0"},
 {"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8"},
