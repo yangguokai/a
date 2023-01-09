@@ -88,6 +88,8 @@
 {"key":"csp_xBPQ_真不卡影院","name":"真不卡影院|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/真不卡影院xBPQ.json"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴电影|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/石榴电影(xBPQ).json"},
 {"key":"csp_xBPQ_布蕾影院","name":"布蕾影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/布蕾影院.json"},
+{"key":"csp_xBPQ_98影院","name":"98影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/98影院XBPQ.json"},
+{"key":"csp_xBPQ_万博剧院","name":"万博剧院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/万博剧院XBPQ.json"},
 {"key":"csp_xBPQ_乐猪TV","name":"乐猪TV|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/乐猪TV.json"},
 {"key":"csp_xBPQ_红领巾","name":"红领巾|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/红领巾.json"},
 {"key":"csp_xBPQ_新视觉影院","name":"新视觉影院|xBPQ","type": 3,"api": "csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/新视觉影院.json"},
