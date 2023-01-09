@@ -31,6 +31,7 @@
 {"key":"csp_Ysgc","name":"影视工厂|SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8"},
 {"key":"csp_Voflix","name":"Voflix|SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8"},
 {"key":"csp_ZJMiao","name":"新视觉|SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nkdy","name":"南柯|SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"百影视频","name":"棉花视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 //{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
 //{"key":"csp_Zjdr","name":"追剧达人|SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
