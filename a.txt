@@ -59,7 +59,7 @@
 //{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
 {"key":"Hei","name":"石榴|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
 {"key":"Cokemv","name":"可乐|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
-{"key":"csp_Tkys","name":"天空影视|SP","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Tkys","name":"天空影视|SP","type":3,"api": "csp_Tkys","searchable": 1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_骚火电影","name":"骚火电影|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/骚火电影.json"},
 {"key":"csp_biubiu_555电影","name":"555电影|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/555电影.txt","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
 {"key":"Auete影视","name":"Auete|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/Auete影视XB.json","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
