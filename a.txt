@@ -22,7 +22,7 @@
 {"key":"IKan","name":"爱看|SP","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 //{"key":"Ikan","name":"Ikan|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1},
 //{"key":"Ikan","name":"爱看|SP","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/1028唐僧4.jar;md5;7ded374bc377a7aaadfea09c3bcae2a0"},
-{"key":"csp_Bttoo","name":"两个BT|SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
+{"key":"csp_Bttoo","name":"1两个BT|SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
 {"key":"mtv_pc_神马影视","name":"神马影视|SP","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
 {"key":"csp_Dy1010","name":"双十|SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
 {"key":"BuLei","name":"布雷|SP","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
