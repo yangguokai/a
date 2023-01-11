@@ -89,7 +89,7 @@
 {"key":"csp_xBPQ_金眼影视","name":"低端影视|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/低端影视.json"},
 {"key":"csp_xBPQ_子子影视","name":"子子影视|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/子子影视.json"},
 {"key":"csp_xBPQ_饭团影视HD","name":"饭团影视HD|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/饭团影视HD.json"},
-//{"key":"csp_xBPQ_饭团影院","name":"饭团影院|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/饭团影院.json"},
+{"key":"csp_xBPQ_饭团影院","name":"饭团影院|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/饭团影院.json"},
 {"key":"csp_xBPQ_小猫咪","name":"小猫咪|xBPQ","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/小猫咪.json"},
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/AuetexBPQ.json"},
 {"key":"csp_xBPQ_真不卡影院","name":"真不卡影院|xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/真不卡影院xBPQ.json"},
