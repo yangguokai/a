@@ -199,9 +199,9 @@
                 "综艺"
             ]
         },
-        //{
+        {
             "key": "量子资源",
-            "name": "🐞量子资源",
+            "name": "量子资源",
             "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "playUrl": "",
