@@ -180,7 +180,7 @@
 {"key":"push_agent"        ,"name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
     {
             "key": "天空资源",
-            "name": "🐞天空资源",
+            "name": "天空资源",
             "type": 1,
             "api": "http://api.tiankongapi.com/api.php/provide/vod/",
             "playUrl": "",
@@ -211,7 +211,6 @@
                 
             ]
         },
-{"key":"天堂资源","name":"🐞天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"t4public","name":"T4公共〔爬虫〕","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://yangguokai.github.io/a/学习园地.txt"},
 //{"key":"幼儿乐园","name":"📚幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/bao523/skf/raw/branch/main/幼儿乐园.json"},
