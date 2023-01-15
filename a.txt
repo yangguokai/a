@@ -19,7 +19,7 @@
 {"key":"hnzy","name":"红牛资源|搜","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"APPTT","name":"图图1|SP","api":"csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.107:9955"},
 //{"key":"AppTT","name":"图图|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-{"key":"AppTT","name":"图图1|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://yangguokai.github.io/jar/唐0111.jar;md5;3835a60781cf559924009150c490166e"},
+{"key":"AppTT","name":"图图|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://yangguokai.github.io/jar/唐0111.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"csp_DiDuan","name":"低端|SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://yangguokai.github.io/jar/唐0111.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"快看","name":"快看|SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name": "农民|SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
