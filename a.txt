@@ -17,7 +17,7 @@
 {"key":"光速资源","name":"️光速资源|搜","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
 {"key":"新浪资源","name":"新浪资源|搜","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"hnzy","name":"红牛资源|搜","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"APPTT","name":"图图1|SP","api":"csp_AppTT","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;9978a3b2f0041cec4b17dbca35327bfe"},
+{"key":"APPTT","name":"图图1|SP","api":"csp_AppTT2","type": 3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;9978a3b2f0041cec4b17dbca35327bfe"},
 //{"key":"AppTT","name":"图图|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"AppTT","name":"图图|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://yangguokai.github.io/jar/唐0111.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"Ddys","name":"低端|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://yangguokai.github.io/jar/唐0111.jar;md5;3835a60781cf559924009150c490166e"},
