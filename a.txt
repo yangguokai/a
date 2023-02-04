@@ -245,11 +245,9 @@
 {"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 //{"name":"OK解析","type":0,"url":"https://okjx.cc/?url="},
 //{"name":"神3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
-{"name": "布雷","type": 0,"url": "http://home.jundie.top:666/unBom.php?m3u8=", "header": { "User-Agent": "Mozilla/5.0" } },
-{"name": "布雷2","type": 0,"url": "https://blbfq.f3322.net/player/?url="},
+{"name": "布雷","type": 0,"url": "https://blbfq.f3322.net/player/?url="},
 {"name": "不堵车","type": 0,"url": "https://m3u8.okjx.cc:3389/13jx.php?url=", "header": { "User-Agent": "Mozilla/5.0" } },          
 {"name":"看了么","type":0,"url":"https://ksksl.codjx.com/?url="},
-{"name":"100解析","type":0,"url":"https://byg.ziqj5.shop/?url="},
 {"name":"麒麟播放器","type":0,"url":"https://jx.quankan.app/?url="},
 {"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
 ],
