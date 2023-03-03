@@ -248,7 +248,6 @@
 {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name": "ckmov", "type": 0,"url": "https://www.ckmov.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv", "乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"布雷","type": 0,"url": "https://blbfq.f3322.net/player/?url="},
-{"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"麒麟播放器","type":0,"url":"https://jx.quankan.app/?url="},
 {"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
 ],
