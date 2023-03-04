@@ -77,8 +77,6 @@
 {"key":"csp_xBPQ_豆角网","name":"大米星球|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/大米星球.json"},
 {"key":"csp_xBPQ_豆角网","name":"花猫TV|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/花猫TV.json"},
 {"key":"csp_xBPQ_豆角网","name":"奇优影院|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/奇优影院.json"},
-{"key":"csp_xBPQ_豆角网","name":"素白白|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/素白白.json"},
-{"key":"csp_xBPQ_喵喵","name":"在线之家1|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/在线之家.json"},
 //{"key":"csp_xBPQ_喵喵","name":"喵喵|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/喵喵.json"},
 {"key":"csp_xBPQ_素白白影视","name":"素白白影视|xBPQ","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/素白白影视.json"},
 {"key":"csp_xBPQ_Auete","name":"Auete|xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://yangguokai.github.io/m/Auete.json"},
