@@ -1,5 +1,4 @@
-{"spider"://"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557",
-"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;B0BA72140B1828C8907F53CF0667493C",
+{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;B0BA72140B1828C8907F53CF0667493C",
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"]}]}],
 "sites": [
