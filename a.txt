@@ -2,7 +2,8 @@
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"]}]}],
 "sites": [
-{"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/jar/1215.jar;md5;58bace2715918a6fd783931d03586372"},
+//{"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/jar/1215.jar;md5;58bace2715918a6fd783931d03586372"},
+{"key":"csp_Kunyu77","name":"凯专用,勿传播1","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
 {"key":"dr_豆瓣","name":"豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"csp_xBPQ_动漫专用","name":"动漫专用","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/动漫专用.json"},
 {"key":"360_spider","name":"360|解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
