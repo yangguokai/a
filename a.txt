@@ -27,7 +27,6 @@
 {"key":"csp_AppMr","name":"明日|SP","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name": "农民|SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
 {"key":"csp_555","name":"555影视|SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"csp_Yht","name":"野荷塘|SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 {"key":"csp_fantuan","name":"饭团|SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_Bttoo","name":"两个BT|SP","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_神马影视","name":"神马|SP","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1},
