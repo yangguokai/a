@@ -55,6 +55,7 @@
 //{"key":"Tian","name":"天天|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 //{"key":"Yanet","name":"鸭奶飞|SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
 {"key":"csp_xpath_112","name":"工人影视|XP","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/a/工人影视.json"},
+{"key":"csp_xpath_pianba","name":"片吧影院|XP","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/片吧.txt"},
 {"key":"csp_XBiu口袋影院","name": "口袋影院|XBiu","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 {"key":"csp_biubiu_555电影","name":"555电影|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/555电影.txt","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
 {"key":"csp_biubiu_饭团","name":"饭团影院|XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yangguokai.github.io/m/饭团.json","jar":"https://yangguokai.github.io/a/1124猫.jar;md5;1e482db250882f2b2e0da804f59bb557"},
@@ -144,7 +145,6 @@
 {"key": "csp_xBPQ_FreeOK","name":"FreeOK|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/FreeOK.json"},
 {"key": "csp_xBPQ_VOFLIX","name":"VOFLIX|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/VOFLIX.json"},
 {"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xpath_pianba","name":"片吧影院/综合","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/a/片吧.txt"},
 {"key":"push_agent","name":"推送|推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
     {
             "key": "天空资源",
