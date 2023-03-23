@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6C22C52D5A00AA832BB95EFBF8490298",
+{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"]}]}],
 "sites": [
@@ -39,7 +39,7 @@
 {"key":"csp_Voflix","name":"Voflix|SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"新视觉|SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Nkdy","name":"南柯|SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"YQK_spider","name":"一起看|SP","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"csp_YQKAPP","name":"一起看|SP","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"key":"csp_Nkdy","name":"耐看|SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"哔嘀影视|SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"可乐|SP","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
