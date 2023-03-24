@@ -1,6 +1,6 @@
 {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"]}]}],
+"lives":[{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"}],
 "sites": [
 //{"key":"csp_Kunyu77","name":"凯专用,勿传播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/jar/1215.jar;md5;58bace2715918a6fd783931d03586372"},
 //{"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
