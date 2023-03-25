@@ -198,8 +198,8 @@
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/bao523/skf/raw/branch/main/高中课堂.json"}
     ],
 "parses":[
-{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}   }, 
 {"name":"777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name":"icu","type":1,"url":"https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
