@@ -27,7 +27,6 @@
 {"key":"csp_MeiJu69","name":"69美剧|SP","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
 {"key":"csp_panghu","name":"胖虎|SP","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"影视工厂|SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
-{"key":"csp_Zxzj","name":"在线之家|SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"Voflix|SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"新视觉|SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Nkdy","name":"南柯|SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
