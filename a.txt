@@ -40,8 +40,6 @@
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories": [ ]},
 {"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
 {"key":"csp_Nbys","name":"泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"If101","name":"If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"360|解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_xml_小猫咪","name":"猫咪|解析","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_xBPQ_动漫专用","name":"动漫专用","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangguokai.github.io/m/动漫专用.json"},
