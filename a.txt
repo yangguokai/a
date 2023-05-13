@@ -12,7 +12,7 @@
 {"key":"mayiys_spider","name":"蚂蚁|线路2包括2之后线路可正常播放","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01"},
 {"key":"Tutu_spider","name":"图图|SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"http://cdn.qiaoji8.com/fix0511.jar;md5;6847077f896f53976496662c3836f349"},
 {"key":"Lezhu_spider","name":"乐猪|点击“倒序”后为正常播放顺序","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0511.jar;md5;6847077f896f53976496662c3836f349"},
-{"key":"csp_WoGG","name":"玩偶|云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
+{"key":"csp_WoGG","name":"玩偶|云盘源 有时需要用手机端阿里云盘扫描后可播放","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"农民","name": "农民|SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
 {"key":"csp_AppMr","name":"明日|SP","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LibVio|SP","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
