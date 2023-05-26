@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E8FE5D2C9D119879E383A85DF8FFD027",
+{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;22BEA96778121A176132C5D1D2E92889",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"}],
 "sites": [
@@ -11,7 +11,7 @@
 {"key":"csp_酷影","name":"酷影|SP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 {"key":"csp_LiteApple","name":"小苹果|SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
-{"key":"mayiys_spider","name":"蚂蚁|线路2包括2之后线路可正常播放","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
+{"key":"mayiys_spider","name":"蚂蚁|线路2不包括2之后线路可正常播放","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
 {"key":"Tutu_spider","name":"图图|进播放源可首选qq youku aqiyi等主流源 其余源也可播放","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"JWXYqZnHWMilNZLtSRK#tzMIw9IARRcMqiaojiCMinJ0S7o6sYZMVW","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
 {"key":"Lezhu_spider","name":"乐猪|点击“倒序”后为正常播放顺序","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
 {"key":"棉花影视","name":"棉花|SP","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
