@@ -11,7 +11,7 @@
 {"key":"csp_如意4K","name":"如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_LiteApple","name":"小苹果|SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
-{"key":"mayiys_spider","name":"蚂蚁|线路2不包括2之后线路可正常播放","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
+{"key":"mayiys_spider","name":"蚂蚁|线路2包括2之后线路可正常播放","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
 {"key":"csp_酷影","name":"酷影|SP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 {"key":"BuLei","name":"布雷|SP","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_Czsapp","name":"厂长|SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
