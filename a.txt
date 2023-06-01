@@ -1,4 +1,4 @@
-{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;10EB32E7F059984CBA18EE3A8B764470",
+{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"}],
 "sites": [
