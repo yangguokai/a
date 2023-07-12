@@ -11,7 +11,7 @@
 {"key":"csp_AppMr","name":"明日|SP","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"LibVio|SP","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_xBPQ_奇优影院","name":"奇优影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/奇优影院.json"},
-{"key":"南瓜影视","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+{"key":"南瓜影视","name":"南瓜影视 激活码8527","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
 {"key":"油果视频","name":"油果视频","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
 {"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
