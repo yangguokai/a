@@ -194,8 +194,8 @@
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/bao523/skf/raw/branch/main/高中课堂.json"}
     ],
 "parses":[
-{"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Json聚合","type":3,"url":"Demo"},
 {"name": "小新","type": 1,"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=1442306&key=gmnrvwyCEGHKMNRT18&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "sohu", "bilibili", "哔哩哔哩", "哔哩"]} },
 {"name": "刚佬","type": 1,"url": "http://json.g9.pub:66/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}} },
 {"name":"bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}   }, 
