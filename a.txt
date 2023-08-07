@@ -153,29 +153,8 @@
 {"key": "csp_xBPQ_APP影院","name":"APP影院|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/APP影院.json"},
 {"key": "csp_xBPQ_FreeOK","name":"FreeOK|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/FreeOK.json"},
 {"key": "csp_xBPQ_VOFLIX","name":"VOFLIX|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/VOFLIX.json"},
-{"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"push_agent","name":"推送|推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"},
-    {
-            "key": "天空资源",
-            "name": "天空资源",
-            "type": 1,
-            "api": "http://api.tiankongapi.com/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "喜剧片",
-                "动画片",
-                "犯罪片",
-                "国产剧",
-                "动漫",
-                "综艺"
-            ]
-        },
+{"key": "天空资源","name": "天空资源","type": 1,"api": "http://api.tiankongapi.com/api.php/provide/vod/","playUrl": "","categories": ["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","国产剧","动漫","综艺" ]},
         {
             "key": "量子资源",
             "name": "量子资源",
