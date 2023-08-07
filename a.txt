@@ -28,7 +28,8 @@
 {"key":"csp_Lib","name":"LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
 {"key":"csp_xBPQ_奇优影院","name":"奇优影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/jar/奇优影院.json"},
 //{"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
+//{"key":"光速资源","name":"️光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl": "","searchable":1,"filterable":1,"categories":[]},
+{"key": "天空资源","name": "天空资源","type": 1,"api": "http://api.tiankongapi.com/api.php/provide/vod/","playUrl": "","categories": ["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","国产剧","动漫","综艺" ]},
 {"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"Lezhu_spider","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
@@ -154,7 +155,6 @@
 {"key": "csp_xBPQ_FreeOK","name":"FreeOK|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/FreeOK.json"},
 {"key": "csp_xBPQ_VOFLIX","name":"VOFLIX|xBPQ","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 0,"ext":"https://yangguokai.github.io/m/VOFLIX.json"},
 {"key":"push_agent","name":"推送|推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"},
-{"key": "天空资源","name": "天空资源3","type": 1,"api": "http://api.tiankongapi.com/api.php/provide/vod/","playUrl": "","categories": ["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","国产剧","动漫","综艺" ]},
         {
             "key": "量子资源",
             "name": "量子资源",
