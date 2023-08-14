@@ -16,7 +16,7 @@
 {"key":"油果视频","name":"油果视频","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
 {"key":"EMO","name":"EMO蓝光","type":3,"api":"csp_AppYsV2","ext":"http://one2.emofun.top/mogai_api.php/v1.vod","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
 {"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
-{"key":"路人甲私人影院","name" :"私人影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1，"filterable": O,"ext": "http://154.204.178.161:67/api.php/app/"},
+{"key":"影探","name":"私人影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.204.178.161:67/api.php/app/"},
 {"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"农民","name": "农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
 {"key":"臭蛋蛋","name":"蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/臭蛋蛋.json"},
