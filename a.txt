@@ -43,6 +43,7 @@
 {"key": "天空资源","name": "天空资源","type": 1,"api": "http://api.tiankongapi.com/api.php/provide/vod/","playUrl": "","categories": ["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","国产剧","动漫","综艺" ]},
 {"key":"非凡","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"csp_WoGG","name":"☁️玩偶|云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/jar/tok.txt"},
+{"key":"Gitcafe","name":"☁️纸条|云盘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0, "ext":"http://127.0.0.1:9978/file/tvfan/tokengo.txt" },
 {"key":"PanSearch","name":"☁️盘搜索|云盘","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"},
 {"key":"Dovx","name":"☁️七夜|云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"},
 {"key":"FindZY","name":"☁️找资源|云盘","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://yangguokai.github.io/jar/tok.txt$$$yingshi$$$abcd1234"},
