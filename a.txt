@@ -8,7 +8,7 @@
 //{"key":"iqiyi","name":"爱奇艺","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
 //{"key":"csp_wogg_cli","name":"玩偶(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://yangguokai.github.io/jar/tok.txt"},
 {"key":"荐片","name":"荐片(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable": 1},
-{
+//{
             "key":"drpy_js_豆瓣",
             "name":"豆瓣推荐[js]",
             "type":3,
@@ -26,7 +26,7 @@
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
         },
-{
+//{
             "key":"drpy_js_豆瓣",
             "name":"豆瓣推荐[js]2",
             "type":3,
