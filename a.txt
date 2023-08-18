@@ -69,11 +69,10 @@
 {"key":"push_agent","name":"推送|推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"}
     ],
 "parses":[
-//{"name":"Json聚合","type":3,"url":"Demo"},
-//{"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name": "玩偶","type": 1,"url": "https://jiexi.wogg.link/api/饭特析.php?url="},
-{"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name": "玩偶","type": 1,"url": "https://jiexi.wogg.link/api/饭特析.php?url="}
 ],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 
