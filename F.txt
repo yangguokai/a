@@ -170,13 +170,12 @@
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/HDmoli.js"
         },
-        {"key":"drpy_js_荐片","name":"荐","type":3,"api":"https://yangguokai.github.io/jar/lib/drpy2.min.js","ext":"https://yangguokai.github.io/jar/js/荐片.js","playerType":"1"},
-       // {
+        {
             "key":"drpy_js_荐片",
             "name":"荐片[js]",
             "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/荐片.js",
+            "api":"https://yangguokai.github.io/jar/lib/drpy2.min.js",
+            "ext":"https://yangguokai.github.io/jar/js/荐片.js",
             "playerType":"1"
         },
         {
