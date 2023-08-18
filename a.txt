@@ -8,7 +8,7 @@
 //{"key":"iqiyi","name":"爱奇艺","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
 //{"key":"csp_wogg_cli","name":"玩偶(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://yangguokai.github.io/jar/tok.txt"},
 {"key":"荐片","name":"荐片(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"drpy_js_4KHDR","name":"4KHDR[js] | 磁","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"./js/4khdr.js", "quickSearch":1, "changeable":1},
+{"key":"drpy_js_4KHDR","name":"4KHDR[js] ","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"./js/4khdr.js", "quickSearch":1, "changeable":1},
 {"key":"drpy_js_MP4US","name":"MP4电影[js] | 磁","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1},
 {"key":"drpy_js_电影港","name":"电影港[js] | 磁","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"./js/dygang.js", "quickSearch":1, "changeable":1},
 {"key":"drpy_js_极影网","name":"极影网[js] | 磁","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"./js/jiyingw.js", "quickSearch":1, "changeable":1},
