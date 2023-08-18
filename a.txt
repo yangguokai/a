@@ -8,16 +8,6 @@
 //{"key":"iqiyi","name":"爱奇艺","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
 //{"key":"csp_wogg_cli","name":"玩偶(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"https://yangguokai.github.io/jar/tok.txt"},
 {"key":"荐片","name":"荐片(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable": 1},
-//{
-            "key":"drpy_js_豆瓣",
-            "name":"豆瓣推荐[js]",
-            "type":3,
-            "api":"https://xhdwc.tk/lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
 {
             "key":"drpy_js_荐片",
             "name":"荐片[js]",
@@ -25,16 +15,6 @@
             "api":"https://xhdwc.tk/lib/drpy2.min.js",
             "ext":"https://xhdwc.tk/js/荐片.js",
             "playerType":"1"
-        },
-//{
-            "key":"drpy_js_豆瓣",
-            "name":"豆瓣推荐[js]2",
-            "type":3,
-            "api":".bs/drpy2.min.js",
-            "ext":"./js/drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
         },
 {"key": "drpy_js_哔哩教育","name": " 哔哩教育JS","type": 3,"api": ".bs/drpy2.min.js","ext": "./Js/教育大全.js"},
 {
