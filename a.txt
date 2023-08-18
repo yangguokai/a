@@ -10,7 +10,7 @@
 {"key":"荐片","name":"荐片(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable": 1},
 {
             "key":"drpy_js_豆瓣",
-            "name":"豆瓣推荐[js]",
+            "name":"豆瓣推荐[js]1",
             "type":3,
             "api":"https://yangguokai.github.io/jar/drpy2.min.js",
             "ext":"https://yangguokai.github.io/jar/drpy.js",
