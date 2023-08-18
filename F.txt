@@ -176,7 +176,6 @@
             "type":3,
             "api":"https://yangguokai.github.io/jar/lib/drpy2.min.js",
             "ext":"https://yangguokai.github.io/jar/js/荐片.js",
-            "playerType":"1"
         },
         {
             "key":"drpy_js_骚火电影",
