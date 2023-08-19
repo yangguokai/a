@@ -10,6 +10,7 @@
 {"key":"csp_wogg_cli","name":"玩偶(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"74eab34051d54fbc8eb142fa09d35134"},
 {"key": "csp_woggcli","name": "玩偶.CLi","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=74eab34051d54fbc8eb142fa09d35134","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"荐片","name":"荐片(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"csp_SixV","name":"新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://www.xb6v.com/"},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/荐片.js","playerType":"1" },
 {"key":"drpy_js_骚火电影","name":"骚火[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/骚火电影.js"},
 //{"key":"奇奇","name":"奇奇","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl":"json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
