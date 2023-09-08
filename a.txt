@@ -3,10 +3,8 @@
 "wallpaper":"https://xhdwc.tk/api/img.php",
 "lives":[{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt"}],
 "sites": [
-//{"key":"csp_Kunyu77","name":"专用,当 当前源无法播放时,可换源","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/jar/1215.jar;md5;58bace2715918a6fd783931d03586372"},
-//{"key":"csp_Kunyu77","name":"提示 搜索(可远程搜索) 多源可选,每个总源也有分源可换播放","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"提示 搜索(可远程搜索) 多源可选,每个总源也有分源可换播放","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"iqiyi","name":"爱奇艺","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi","searchable":1,"quickSearch":1},
-//{"key":"奇奇","name":"奇奇","type":1,"api":"http://www.csykkj.club/api.php/provide/vod/from/qiqi","playUrl":"json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 //{"key":"qq","name":"腾讯视频","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/qq","searchable":1,"quickSearch":1},
 {"key":"Qtv","name":"腾讯","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"爱奇艺","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
