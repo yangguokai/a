@@ -18,7 +18,7 @@
 {"key":"探探","name":"影探","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 {"key":"csp_SixV","name":"6V|磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"两个B1T","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bttwo.net/"},
+{"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://yangguokai.github.io/jar/a.jar;md5;9bc9a3af50986053b63806642bfd6145"},
 //{"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bttwo.net/","jar":"https://yangguokai.github.io/jar/a.jar;md5;9bc9a3af50986053b63806642bfd6145"},
 {"key":"看看视频","name":"看看视频|激活码均为：9981","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0907.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"},
 {"key":"南瓜影视","name":"南瓜影视| ","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"},
