@@ -34,6 +34,7 @@
 {"key":"农民","name": "农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
 {"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://yangguokai.github.io/a/学习园地.txt"},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/荐片.js","playerType":"1" },
+{"key":"drpy_js_宅腐影视","name":"宅影视[js]","type":3,"api":"https://xhdwc.tk/lib/drpy1.min.js","ext":"https://xhdwc.tk/js/宅腐影视.js","searchable": 0,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_wogg_cli","name":"玩偶(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"74eab34051d54fbc8eb142fa09d35134"},
 //{"key":"野兔资源","name":"野兔资源","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable":1,"quickSearch":1}, 
 //{"key":"臭蛋蛋","name":"蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/臭蛋蛋.json"},
