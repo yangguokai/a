@@ -35,6 +35,8 @@
 {"key":"mino4K","name":"mino4K|","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"追忆影视","name":"追忆影视|","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"南瓜影视","name":"南瓜影视| ","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
+{"key":"JianPian","name":"荐片| ","type":3,"api":"csp_JianPian","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
+{"key":"Dygang","name":"电影港| ","type":3,"api":"csp_Dygang","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"影视王朝","name":"影视王朝|","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb"},
 {"key":"油果视频","name":"油果视频|","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"csp_AppMr","name":"明日","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
