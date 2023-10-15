@@ -94,11 +94,10 @@
 //{"name":"黄黄","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 //{"name":"2449","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
 //{"name":"全部","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name":"小鱼","type":0,"url":"http://json.84jia.com/?url="},
-{"name":"DA","type":0,"url":"https://www.daina.hk/api/?key=2e632927653e90576872a689d1345c6c&url=Feiyun-|2FQQ8T1MkDli|2Bb8wx6g6i4Vfa|2BKUHrJgQVOqZ5BskKID|2Bsu9uxoHQ5|2FJaMslRr6qrKGQIU3ZC1C|2BLfqWBJBzu6Q|3D|3D-FYNB1"},
-{"name":"稻香","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
-{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-{"name":"饭特","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="}
+//{"name":"稻香","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+//{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+//{"name":"饭特","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
+{"name":"左岸","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}}
 
 ],
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
