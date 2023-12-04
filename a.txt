@@ -6,7 +6,7 @@
 {"key":"一起看 ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/荐片.js","playerType":"1"},
-{"key":"drpy_js_骚火电影","name":"骚火电影[js]","type": 3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/骚火电影.js"},
+{"key":"drpy_js_骚火电影","name":"骚火[js]","type": 3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/骚火电影.js"},
 {"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Czsapp","name": "厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czz9.com/" },
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
