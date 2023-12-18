@@ -8,7 +8,7 @@
 //{"key":"csp_Dm84","name":"动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/荐片.js","playerType":"1"},
 {"key":"drpy_js_骚火电影","name":"骚火[js]","type": 3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/骚火电影.js"},
-{"key":"皮皮虾","name":"皮皮","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5UWFrphwMYZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="},
+{"key":"csp_Cs1369","name":"九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Bttoo","name":"TBT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Czsapp","name": "厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czz9.com/" },
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
