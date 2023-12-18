@@ -5,7 +5,7 @@
 "lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo2.txt"}],
 "sites": [
 {"key":"一起看 ","name":"起看|广告勿信","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key": "csp_WoGG","name":"☁️玩偶|云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"csp_WoGG","name":"☁️玩偶|云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //{"key":"csp_Dm84","name":"动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_荐片","name":"荐片[js]","type":3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/荐片.js","playerType":"1"},
