@@ -31,6 +31,7 @@
 {"key":"巧技一","name":"巧一影视|","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"巧技二","name":"巧二影视|","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"巧技三","name":"巧三影视|","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
+{"key":"巧技四","name":"巧四影视|","type":3,"api":"csp_qiao2","playerType":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"超神","name":"超神影视|","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"tvbsk","name":"TVB云播|","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"csp_Auete","name":"Auete|","type":3,"api":"csp_Auete","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
