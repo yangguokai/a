@@ -12,7 +12,7 @@
 {"key":"drpy_js_骚火电影","name":"骚火[js]","type": 3,"api":"https://xhdwc.tk/lib/drpy2.min.js","ext":"https://xhdwc.tk/js/骚火电影.js"},
 {"key":"csp_Cs1369","name":"九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Bttoo","name":"TBT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Czsapp","name": "厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czz9.com/" },
+{"key": "Czsapp","name": "厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy33.com/" },
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://haozhansou.com/"},
 {"key": "Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
