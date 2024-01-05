@@ -1,8 +1,8 @@
 {"spider"://"https://yangguokai.github.io/jar/a.jar;md5;d1bd4073b5485768e739a712610ae8d4",
 "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
 "wallpaper":"https://xhdwc.tk/api/img.php",
-//"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo2.txt"}],
-"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
+"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo3.txt"}],
+//"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
 "sites": [
 {"key":"一起看 ","name":"起看|广告勿信","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WoGG","name":"☁️玩偶|云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
