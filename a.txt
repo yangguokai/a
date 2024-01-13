@@ -1,6 +1,6 @@
 {"spider"://"https://yangguokai.github.io/jar/a.jar;md5;d1bd4073b5485768e739a712610ae8d4",
 //"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
-"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b",
 "wallpaper":"https://xhdwc.tk/api/img.php",
 "lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo3.txt"}],
 //"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
