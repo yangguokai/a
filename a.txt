@@ -57,7 +57,7 @@
 {"key":"JianPian","name":"荐片| ","type":3,"api":"csp_JianPian","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"Dygang","name":"电影港| ","type":3,"api":"csp_Dygang","jar":"http://cdn.qiaoji8.com/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"csp_AppMr","name":"明日","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"农民","name": "农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
+//{"key":"农民","name": "农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/农民.json"},
 {"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://yangguokai.github.io/a/学习园地.txt"},
 //{"key":"野兔资源","name":"野兔资源","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","categories": ["无敌4K资源","电影","动漫动画","国产剧","日韩剧","泰剧","欧美剧","纪录片"],"searchable":1,"quickSearch":1}, 
 //{"key":"臭蛋蛋","name":"蛋蛋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangguokai.github.io/m/臭蛋蛋.json"},
