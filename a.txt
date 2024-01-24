@@ -18,6 +18,7 @@
 {"key":"爱看影视","name":"爱看","type":3,"playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/爱看.js"},
 {"key":"FreeOK","name":"️️Fre影","type":3,"api":"csp_Freeok","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"},
+{"key":"小纸条","name":"纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":1,"ext":"file://fatcat/token.txt","jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"},
 {"key":"csp_Bttoo","name":"TBT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy66.com/"},
 //{"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://haozhansou.com/"},
