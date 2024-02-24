@@ -28,8 +28,6 @@
 {"key":"樱花动漫","name":"樱花","type":3,"playerType":"2","api":"csp_Ying","jar":"https://tang.serv00.net/file/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A"},
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwo","jar":"https://tang.serv00.net/file/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A"},
 {"key":"FreeOK","name":"️️Fre影","type":3,"api":"csp_Freeok","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240219.jar;md5;154ba33b0a846e72c142fc38a4d26927"},
-{"key":"csp_麻瓜","name":"麻瓜
-","type":3,"api":"csp_Lvdou","searchable":1,"quickSearch":0,"changeable":0,"playerType":"1","ext":{"server":"http://s.weixine.link:1234/api.php/app/","mackey":"NrUnudVHl7rwQ4Zi|PHRBxdt7PppocRJ5"},"jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240219.jar;md5;154ba33b0a846e72c142fc38a4d26927"},
 {"key":"乐乐","name":"乐乐","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_Movie2","ext":"https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json","jar":"http://www.wya6.cn/tz/wyog.php"},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;bb798e33d86af9bd913d57df300f223a"},
