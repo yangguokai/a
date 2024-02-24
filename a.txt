@@ -24,6 +24,7 @@
 {"key":"ikanbot3","name":"爱看bot","type":3,"api":"https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"},
 {"key":"荐片","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
 {"key": "鑫鑫[V2]", "name": "鑫鑫","type": 3,"api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js"},
+{"key":"比特","name":"比特","type":3,"api":"csp_Bttwo","jar":"https://tang.serv00.net/file/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A"},
 {"key":"FreeOK","name":"️️Fre影","type":3,"api":"csp_Freeok","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240219.jar;md5;154ba33b0a846e72c142fc38a4d26927"},
 {"key":"csp_麻瓜","name":"麻瓜
 ","type":3,"api":"csp_Lvdou","searchable":1,"quickSearch":0,"changeable":0,"playerType":"1","ext":{"server":"http://s.weixine.link:1234/api.php/app/","mackey":"NrUnudVHl7rwQ4Zi|PHRBxdt7PppocRJ5"},"jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240219.jar;md5;154ba33b0a846e72c142fc38a4d26927"},
