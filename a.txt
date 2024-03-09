@@ -6,7 +6,7 @@
 //"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
 "sites": [
 {"key":"一起看 ","name":"起看|广告勿信","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"种子短剧","name":"短剧","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/种子短剧.js","playerType":2},
+{"key":"种子短剧","name":"短剧|专用","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/种子短剧.js","playerType":2},
 {"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Dm84","name":"动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
@@ -16,7 +16,7 @@
 {"key":"csp_Cs1369","name":"九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
-{"key":"Lib","name":"立播","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
+{"key":"Lib","name":"立播|韩剧","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 {"key":"萌米","name":"天天","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"追剧","name":"追剧","type":3,"api":"csp_AppTT","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"小柚","name":"小柚","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
