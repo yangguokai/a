@@ -58,7 +58,7 @@
 //{"key":"非凡","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 //{"key":"csp_wogg_cli","name":"玩偶(cli)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch": 1,"filterable": 1,"ext":"ca2d1894b8ad4275b6cc8e84703957ae"},
 //{"key":"小纸条_cli","name":"小纸条|T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"ca2d1894b8ad4275b6cc8e84703957ae","timeout":30},
-{"key": "csp_woggcli","name": "玩偶|T4","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,超清,蓝光,高清&token=ca2d1894b8ad4275b6cc8e84703957ae","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_woggcli","name": "玩偶|T4","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,超清,蓝光,高清&token=ca2d1894b8ad4275b6cc8e84703957ae","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"荐片","name":"荐片|T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"玩偶","name":"☁️玩偶┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"auto|4k|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
 {"key":"YiSo","name":"☁️易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
