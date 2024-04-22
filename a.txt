@@ -9,7 +9,7 @@
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cz233.com/"},
 {"key":"河马","name":"河马|激活码是2468","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"玩偶","name":"☁️玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"auto|4k|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
-{"key":"种子短剧","name":"短剧|专用","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/种子短剧.js","playerType":2},
+//{"key":"种子短剧","name":"短剧|专用","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/种子短剧.js","playerType":2},
 {"key":"Lib","name":"立播|韩剧","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 //{"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"360_spider","name":"360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"","jar":"http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001"},
