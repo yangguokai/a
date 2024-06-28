@@ -69,7 +69,7 @@
 {"key":"天空资源","name": "天空资源","type": 1,"api": "http://api.tiankongapi.com/api.php/provide/vod/","playUrl": "","categories": ["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","国产剧","动漫","综艺" ]},
 //{"key":"腐宅","name":"在剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.fuju1.tv/"},
 //{"key":"T4-fj","name":"在剧","type":4,"api":"https://catbox.n13.club/t6/fuju.php"},
-{"key":"Fujutv","name":"在剧","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718180909261/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49"},
+{"key":"Fujutv","name":"在剧","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719416842188/wex.txt;md5;28258ba65a6805c0726c15bba60b7933"},
 {"key":"米搜","name":"米搜┃搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
 {"key":"YiSo","name":"☁️易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
 {"key":"PanSou","name":"☁️盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"auto|4k|fhd"}},
