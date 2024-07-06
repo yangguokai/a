@@ -40,8 +40,6 @@
 {"key":"FreeOK","name":"️️Fre’","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"兄弟","name":"兄弟’","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"csp_FengGo","name":"疯狗’","type":3,"api":"csp_FengGo","playerType":2,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
-{"key":"csp_Vidhub2","name":"Vid’","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
-{"key":"胖虎","name":"胖虎’","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://physvod.com","jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"csp_Juqq","name":"剧圈’","type":3,"playerType":"2","api":"csp_Juqq","jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"影视王朝","name":"王朝|","type":3,"api":"csp_Yswc","searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb"},
 {"key":"柠檬","name":"柠檬|","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/relay.php?url=","jar":"http://cdn.qiaoji8.com/fix240620.jar;md5;2e3f4dbde933d61722e64ee807500398"},
