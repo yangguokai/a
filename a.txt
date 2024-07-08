@@ -35,6 +35,7 @@
 {"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"萌米","name":"天天","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"云播影视","name":"云播’","type":3,"playerType":"2","api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/TVB云播.js"},
+{"key":"可可","name":"可可’","type":3,"playerType":"2","api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"FreeOK","name":"️️Fre’","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"兄弟","name":"兄弟’","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
 {"key":"csp_FengGo","name":"疯狗’","type":3,"api":"csp_FengGo","playerType":2,"jar":"http://happy.xn--z7x900a.live/jar/PandaQ240706.jar;md5;384a04f3e3f53809edc4b5f4d08db447"},
