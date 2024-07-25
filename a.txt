@@ -74,7 +74,7 @@
 {"key":"YiSo","name":"☁️易搜|搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"auto|4k"}},
 {"key":"PanSou","name":"☁️盘搜|搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"auto|4k|fhd"}},
 {"key":"UpYun","name":"☁️Up搜|搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"auto|4k"}},
-{"key":"PanSearch","name":☁️盘Se|搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"auto|4k"}},
+{"key":"PanSearch","name":"☁️盘Se|搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"auto|4k"}},
 //{"key":"Paper","name":"小纸条|云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"},
 //{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/bao523/skf/raw/branch/main/高中课堂.json"},
 {"key":"push_agent","name":"推送|推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yangguokai.github.io/jar/tok.txt"}
