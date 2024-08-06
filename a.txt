@@ -9,7 +9,7 @@
 {"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
 {"key":"河马","name":"河马|激活码是2468","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"柠檬","name":"柠檬|","type":3,"api":"csp_Nmvod","playerType":1,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432"},
-{"key":"csp_Nmys","name":"伯伯||","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722703045996/wex.txt;md5;2ddb787978a8c31a568590e7d23e4602","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif"},
+{"key":"csp_Nmys","name":"伯伯)","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722703045996/wex.txt;md5;2ddb787978a8c31a568590e7d23e4602","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif"},
 {"key":"短剧","name":"短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"看看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
