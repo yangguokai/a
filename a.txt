@@ -1,6 +1,6 @@
 {"spider"://"https://yangguokai.github.io/jar/a.jar;md5;d1bd4073b5485768e739a712610ae8d4",
 "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;8BA082865AFD1099696C49987C2970F7",
-"wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo3.txt"}],
 //"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
 "sites": [
