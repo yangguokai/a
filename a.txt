@@ -12,7 +12,6 @@
 {"key":"csp_LiteApple","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Appmq","name":"煤球","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"柠檬","name":"柠檬|","type":3,"api":"csp_Nmvod","playerType":1,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","jar":"http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432"},
-{"key":"csp_Nmys","name":"伯伯┃","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723349280650/wex.txt;md5;d9baadfcca61fb79085818485d78fbe2"},
 {"key":"短剧","name":"短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"玩偶","name":"☁️玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"auto|4k|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
