@@ -12,7 +12,7 @@
 {"key":"csp_酸菜","name":"酸菜","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.doujiaoww.com/select/{catePg}---{year}---{cateId}.html","分类":"电视剧&动漫&综艺&韩剧&港剧&台剧&泰剧","分类值":"neidi&dongman&zongyi&hanju&gangju&taiwan&taiju"}},
 //{"key":"csp_酸菜","name":"酸菜","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.doujiaoww.com/select/{catePg}---{year}---hits.html","分类":"电视剧&动漫&综艺&韩剧&港剧&台剧&泰剧","分类值":"neidi&dongman&zongyi&hanju&gangju&taiwan&taiju"}},
 {"key":"csp_mgtva","name":"木瓜","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}},
-{"key":"csp_91","name":"91","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.qingjie123.com/{catePg}/{cateId}/{year}.html","分类":"电视剧&电影&动漫&综艺&微电影","分类值":"wxhz&pceq&bxyy&ubzn&lwlj"}},
+{"key":"csp_91","name":"91","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.qingjie123.com/{catePg}/{area}.html","分类":"电视剧&电影&动漫&综艺&微电影","分类值":"wxhz&pceq&bxyy&ubzn&lwlj"}},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
 {"key":"河马","name":"河马|激活码是2468","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 {"key":"玩偶","name":"☁️玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
