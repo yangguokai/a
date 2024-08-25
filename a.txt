@@ -33,7 +33,7 @@
 {"key":"csp_Pptv","name":"皮皮","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.myd04.com"},
 {"key":"csp_Dadag","name":"达龟","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tvyb","name":"TV云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lib","name":"立播|韩剧","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.cc/"},
+{"key":"Lib","name":"立播|韩剧","type":3,"api":"csp_Libvio","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Jianpian","name":"荐片1","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 {"key":"贱贱","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
 {"key":"csp_Dm84","name":"动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
