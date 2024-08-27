@@ -1,5 +1,5 @@
 {"spider"://"https://yangguokai.github.io/jar/a.jar;md5;d1bd4073b5485768e739a712610ae8d4",
-"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;73769DCB3429C2CFECF83AB98ED85A2D",
+"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo3.txt"}],
 //"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
