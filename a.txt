@@ -19,6 +19,7 @@
 {"key":"csp_VS","name":"VS","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://m.douxx1.com/vsliusw/{cateId}-{area}----------{year}.html","分类":"电视剧&电影&动漫&综艺","分类值":"2&1&4&3"}},
 {"key":"csp_酸菜","name":"酸菜","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.doujiaoww.com/select/{catePg}---{year}---{cateId}.html","分类":"电视剧&动漫&综艺&韩剧&港剧&台剧&泰剧","分类值":"neidi&dongman&zongyi&hanju&gangju&taiwan&taiju"}},
 {"key":"csp_mgtva","name":"木瓜","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}},
+{"key":"csp_剧腐","name":"剧腐","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.fuju1.tv/vodshow/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类":"腐剧&电影&动漫&综艺","分类值":"Fuju&BLdianying&BLdongman&BLzongyi"}},
 {"key":"csp_星辰","name":"星辰","type":3,"api":"csp_XBPQ","ext":{"分类url":"http://www.gdzhongyi.com/vodshow/{cateId}-{area}----------{year}.html","分类":"电视剧&电影&动漫&综艺&伦理","分类值":"2&1&3&4&25"}},
 {"key":"csp_快看","name":"快看","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.xztlzx.com/vodshow/{cateId}---{area}--------{year}.html","分类":"电视剧&电影&动漫&综艺","分类值":"2&1&4&3"}},
 {"key":"csp_Kekys","name":"可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
