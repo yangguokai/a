@@ -9,7 +9,7 @@
 //{"key":"csp_酸菜","name":"酸菜","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.doujiaoww.com/select/{catePg}---{year}---hits.html","分类":"电视剧&动漫&综艺&韩剧&港剧&台剧&泰剧","分类值":"neidi&dongman&zongyi&hanju&gangju&taiwan&taiju"}},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czys.pro/"},
 {"key":"河马","name":"河马|激活码是2468","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar":"http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
 {"key":"酷看","name":"看看","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_LiteApple","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Libvio","name":"Libvio","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.libvio.pro/show/{cateId}-{area}-------{catePg}---{year}.html","分类":"日韩&电影&动漫&剧集&欧美","分类值":"15&1&4&2&16"}},
