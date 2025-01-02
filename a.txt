@@ -25,7 +25,7 @@
 {"key":"南瓜","name":"南瓜┃","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
 {"key":"天天","name":"天天┃","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
 {"key":"热播","name":"热播┃","type":3,"api":"csp_TTian","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24=","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
-{"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3YubGt1eXMuY24=","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
+{"key":"追剧","name":"追剧┃","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3YubGt1eXMuY24=","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
 {"key":"剧评","name":"剧评┃","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
 {"key":"世纪","name":"世纪┃","type":3,"api":"csp_Drama","playerType":1,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw==","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
 {"key":"雨滴","name":"雨滴┃","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA=","jar":"http://cdn.qiaoji8.com/fix241229.jar;md5;e2f6fb5ea2da8edfd8e321f8eb5a8b48"},
