@@ -1,11 +1,10 @@
 {"spider"://"https://yangguokai.github.io/jar/a.jar;md5;d1bd4073b5485768e739a712610ae8d4",
-"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/zhibo3.txt"}],
 //"lives":[{"name": "live","type": 0,"url": "https://yangguokai.github.io/a/2024直播源.txt"}],
 "sites": [
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"农民","name":"农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"玩偶","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"抠搜","name":"抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"UC","name":"优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
